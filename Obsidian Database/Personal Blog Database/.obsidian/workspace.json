@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "267eda1a1358739c",
+    "type": "split",
+    "children": [
+      {
+        "id": "879dd3119d1252c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fb74a587aa63b7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c467591fbcec410",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4d8c6a8e902272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9af879aecdc5232",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fa33216e2e703e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3268aeadcb641800",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5d271a5e5a2e56e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2b00cc78070640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee8f16471242a49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97e05c33fc5aec49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a50e5d7620a2e3e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36d317e646233069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8fb74a587aa63b7b",
+  "lastOpenFiles": [
+    "2023-02-24.md",
+    "Health/Health Work.md",
+    "Fun/Games.md",
+    "Fun/Stupid funny things.md",
+    "Data Analytics/Book Recommendations.md",
+    "Data Analytics/Dataset Websites.md",
+    "Travel/Travel.md",
+    "Phylosophy/Phylosophy.md",
+    "Data Analytics/Data Analysis.md",
+    "Table of contents.md",
+    "Fun/Fun.md",
+    "Health/Untitled.md",
+    "Fun",
+    "HI! This is the Main Page.md",
+    "Phylosophy",
+    "Travel",
+    "Untitled.md",
+    "Health",
+    "Person Baakh Nikolay/About Me.md",
+    "Person Baakh Nikolay/Resume.md",
+    "Person Baakh Nikolay/Bio.md",
+    "Person Baakh Nikolay/Contact Info.md",
+    "Main Pages",
+    "Person Baakh Nikolay",
+    "[.md",
+    "Data Analytics",
+    "Data Analysis/Machine Learning.md",
+    "Data Analysis/Data Analysis.md",
+    "Work Experience.md",
+    "About me.md",
+    "Resume.md",
+    "Short bio.md",
+    "Data Analyst.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Data Analysis"
+  ]
+}

@@ -1,0 +1,2 @@
+[[Stupid funny things]]
+[[Games]]
