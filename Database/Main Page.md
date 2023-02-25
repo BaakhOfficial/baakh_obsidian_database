@@ -5,6 +5,8 @@
 
 If I will decide that one page of that database is very cool - I will duplicate it in my [Medium](https://medium.com/@baakhofficial) blog
 
+Work is still in progress, it's not even alpha version. So sry if something here is not detailed or impressive.
+
 It's a copy of my thoughts. You can call it a book if you want. Here I'll formalize my knowledge about stuff. It will be my ethernet imprint that someone maybe will see once
 
 I can make a lot of links, but it will turn everything into mess. I want it to be quite linear with some additional information

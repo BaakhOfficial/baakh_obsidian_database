@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40e8a862de83f1ca",
+        "id": "96c89c38a27539a6",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ad70975c366d39",
+            "id": "efeb629e12ae01e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me/About Me.md",
+                "file": "Main Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Me/About Me.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Main Page.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About Me/About Me.md",
+                "file": "Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Me/About Me.md"
+                "file": "Main Page.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,9 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5ad70975c366d39",
+  "active": "efeb629e12ae01e4",
   "lastOpenFiles": [
     "Main Page.md",
+    "Data Analyst/Excel/How to convert Timestamp to DateTime.md",
+    "Travel/Travel.md",
+    "Data Analyst/Data Analyst.md",
+    "Data Analyst/Excel/Excel.md",
+    "Data Analyst/Excel",
+    "Health/Mental Health.md",
+    "Data Analyst/Book Recommendations.md",
+    "Travel/Kazakhstan.md",
+    "Travel/Useful links.md",
+    "About Me/Resume.md",
+    "About Me/Contact Info.md",
+    "About Me/Bio.md",
+    "About Me/About Me.md",
+    "Travel/_attachments/Pasted image 20230225121712.png",
+    "Travel/_attachments",
     "_attachments/header page.jpg",
     "vk.com.md",
     "_attachments",
@@ -155,35 +171,23 @@
     "header page.jpg",
     "header.md",
     "Phylosophy/Phylosophy.md",
-    "Data Analyst/Data Analyst.md",
     "Data Analyst/Russian Articles.md",
     "Data Analyst/Articles.md",
     "Data Analyst/English Articles.md",
     "Health/Health Work.md",
     "Health/Physical Health.md",
-    "Health/Mental Health.md",
     "2023-02-24.md",
     "Fun/Games.md",
     "Fun/Stupid funny things.md",
-    "Data Analyst/Book Recommendations.md",
     "Data Analyst/Dataset Websites.md",
-    "Travel/Travel.md",
-    "Fun/Fun.md",
     "Fun",
-    "HI! This is the Main Page.md",
     "Phylosophy",
     "Travel",
-    "Untitled.md",
     "Health",
-    "About Me/About Me.md",
-    "About Me/Resume.md",
-    "About Me/Bio.md",
-    "About Me/Contact Info.md",
     "Main Pages",
     "About Me",
     "Data Analyst",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Data Analysis"
+    "Untitled 1.canvas"
   ]
 }
