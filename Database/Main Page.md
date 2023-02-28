@@ -3,6 +3,8 @@
 
 >*Congratulations! You are on the main page of my personal analyst database. My name is [Nikolay Baakh](https://github.com/BaakhOfficial), I am a Data Analyst. But here you can find much more than just Data Analyst stuff.*
 
+**Some links lead to Russian books or websites. They are marked with #Russian  hashtag**
+
 If I will decide that one page of that database is very cool - I will duplicate it in my [Medium](https://medium.com/@baakhofficial) blog
 
 Work is still in progress, it's not even alpha version. So sry if something here is not detailed or impressive.
