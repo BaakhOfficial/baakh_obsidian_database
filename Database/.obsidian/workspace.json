@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/Face Skin.md",
+                "file": "Fun/Fun.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdb8245cfe80220c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health/Face Skin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Health/Face Skin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Health/Face Skin.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,23 +151,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "021006bc03761c11",
+  "active": "fdb8245cfe80220c",
   "lastOpenFiles": [
+    "Fun/Useful links.md",
+    "Fun/Fun.md",
+    "Travel/Useful links.md",
+    "Data Analyst/Dataset Websites.md",
+    "Fun/Games.md",
+    "Main Page.md",
+    "Data Analyst/Book Recommendations.md",
+    "Travel/Kazakhstan.md",
+    "Travel/Travel.md",
+    "Health/Face Skin.md",
     "Health/Health Work.md",
     "chat.openai.com.md",
     "Health/Physical Health.md",
-    "Health/Face Skin.md",
-    "Data Analyst/Book Recommendations.md",
-    "Main Page.md",
     "About Me/About Me.md",
-    "Fun/Games.md",
-    "Travel/Useful links.md",
     "About Me/Contact Info.md",
-    "Travel/Travel.md",
-    "Travel/Kazakhstan.md",
     "About Me/Bio.md",
     "Data Analyst/Data Analyst.md",
-    "Data Analyst/Dataset Websites.md",
     "Data Analyst/Excel/How To.md",
     "Data Analyst/Excel/Excel.md",
     "Data Analyst/Excel",
@@ -178,8 +185,6 @@
     "header.md",
     "Phylosophy/Phylosophy.md",
     "Data Analyst/Russian Articles.md",
-    "Data Analyst/Articles.md",
-    "Data Analyst/English Articles.md",
     "Fun",
     "Phylosophy",
     "Travel",

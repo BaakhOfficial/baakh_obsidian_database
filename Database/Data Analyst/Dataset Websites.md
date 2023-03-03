@@ -1,3 +1,15 @@
+[Dataset Search (google.com)](https://datasetsearch.research.google.com/)
+
+[World Bank Open Data | Data](https://data.worldbank.org/)
+
+[Росстат — Открытые данные (rosstat.gov.ru)](https://rosstat.gov.ru/opendata/)
+
+[data.gov.ru](https://data.gov.ru/)
+
+[Портал открытых данных Правительства Москвы (mos.ru)](https://data.mos.ru/)
+
+
+
 https://www.kaggle.com/datasets
 
 [These Are The Best Free Open Data Sources Anyone Can Use (freecodecamp.org)](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)

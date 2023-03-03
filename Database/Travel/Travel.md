@@ -18,4 +18,4 @@ My experience will not be universal for everyone. But maybe for someone it will 
 Btw. Apostile everything you can. I had no such possibility so will talk about my experience without it
 
 [[Kazakhstan]]
-[[Useful links]]
+[[Travel/Useful links]]
