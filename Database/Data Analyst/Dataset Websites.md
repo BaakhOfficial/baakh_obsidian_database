@@ -21,3 +21,22 @@ https://www.kaggle.com/datasets
 [CDC WONDER](https://wonder.cdc.gov/)
 
 [Home (dama.org)](https://www.dama.org/cpages/home)
+
+[Data collections - WHO](https://www.who.int/data/collections)
+
+[Registry of Open Data on AWS](https://registry.opendata.aws/)
+
+[figshare - credit for all your research](https://figshare.com/)
+
+[UCLA Statistics | Website](http://statistics.ucla.edu/)
+
+[awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets. (github.com)](https://github.com/awesomedata/awesome-public-datasets)
+
+[Datasets | Pew Research Center](https://www.pewresearch.org/internet/datasets/)
+
+[Google Public Data Explorer](https://www.google.com/publicdata/directory)
+
+[Google Finance - Stock Market Prices, Real-time Quotes & Business News](https://www.google.com/finance/)
+
+[World Development Indicators - Google Public Data Explorer](https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_#!ctype=l&strail=false&bcs=d&nselm=h&met_y=survival_to_age_65&scale_y=lin&ind_y=false&rdim=world&idim=world:Earth&ifdim=world&hl=en_US&dl=en_US&ind=false)
+

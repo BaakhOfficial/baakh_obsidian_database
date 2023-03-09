@@ -23,8 +23,12 @@
             "id": "fdb8245cfe80220c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analyst/Dataset Websites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analyst/Dataset Websites.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analyst/Dataset Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analyst/Dataset Websites.md"
+              }
             }
           }
         ],
@@ -153,6 +161,7 @@
   },
   "active": "fdb8245cfe80220c",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Fun/Useful links.md",
     "Fun/Fun.md",
     "Travel/Useful links.md",
@@ -184,7 +193,6 @@
     "header page.jpg",
     "header.md",
     "Phylosophy/Phylosophy.md",
-    "Data Analyst/Russian Articles.md",
     "Fun",
     "Phylosophy",
     "Travel",
@@ -192,7 +200,6 @@
     "Main Pages",
     "About Me",
     "Data Analyst",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
