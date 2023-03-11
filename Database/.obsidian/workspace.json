@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fbd3ef53bec2b174",
+        "id": "6274bf1e2a468ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "021006bc03761c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fun/Fun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb8245cfe80220c",
+            "id": "d884540040095508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Data Analyst/Dataset Websites.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,26 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdb8245cfe80220c",
+  "active": "d884540040095508",
   "lastOpenFiles": [
+    "Travel/Kazakhstan.md",
+    "Travel/Travel.md",
+    "Data Analyst/Book Recommendations.md",
+    "Data Analyst/Data Analyst.md",
+    "Data Analyst/Dataset Websites.md",
+    "Main Page.md",
+    "About Me/About Me.md",
+    "Data Analyst/Articles.md",
+    "Data Analyst/Russian Articles.md",
     "Untitled.canvas",
     "Fun/Useful links.md",
     "Fun/Fun.md",
     "Travel/Useful links.md",
-    "Data Analyst/Dataset Websites.md",
     "Fun/Games.md",
-    "Main Page.md",
-    "Data Analyst/Book Recommendations.md",
-    "Travel/Kazakhstan.md",
-    "Travel/Travel.md",
     "Health/Face Skin.md",
     "Health/Health Work.md",
     "chat.openai.com.md",
     "Health/Physical Health.md",
-    "About Me/About Me.md",
     "About Me/Contact Info.md",
     "About Me/Bio.md",
-    "Data Analyst/Data Analyst.md",
     "Data Analyst/Excel/How To.md",
     "Data Analyst/Excel/Excel.md",
     "Data Analyst/Excel",
@@ -192,7 +181,6 @@
     "header page.jpg.md",
     "header page.jpg",
     "header.md",
-    "Phylosophy/Phylosophy.md",
     "Fun",
     "Phylosophy",
     "Travel",
