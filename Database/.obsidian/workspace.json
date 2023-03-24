@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6274bf1e2a468ab3",
+        "id": "1e2aa293b38dee9a",
         "type": "tabs",
         "children": [
           {
-            "id": "d884540040095508",
+            "id": "132d220d912ee940",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analyst/Dataset Websites.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Dataset Websites.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Dataset Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Analyst/Dataset Websites.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,22 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d884540040095508",
+  "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Travel/Kazakhstan.md",
-    "Travel/Travel.md",
-    "Data Analyst/Book Recommendations.md",
-    "Data Analyst/Data Analyst.md",
+    "Fun/AI Tools.md",
+    "Fun/Useful links.md",
+    "Fun/Games.md",
+    "Fun/Fun.md",
     "Data Analyst/Dataset Websites.md",
+    "Travel/Kazakhstan.md",
+    "Data Analyst/Book Recommendations.md",
+    "Travel/Travel.md",
+    "Data Analyst/Data Analyst.md",
     "Main Page.md",
     "About Me/About Me.md",
     "Data Analyst/Articles.md",
     "Data Analyst/Russian Articles.md",
     "Untitled.canvas",
-    "Fun/Useful links.md",
-    "Fun/Fun.md",
     "Travel/Useful links.md",
-    "Fun/Games.md",
     "Health/Face Skin.md",
     "Health/Health Work.md",
     "chat.openai.com.md",
@@ -180,7 +173,6 @@
     "_attachments",
     "header page.jpg.md",
     "header page.jpg",
-    "header.md",
     "Fun",
     "Phylosophy",
     "Travel",

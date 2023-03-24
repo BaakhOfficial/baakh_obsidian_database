@@ -2,15 +2,22 @@ In Russia we have a lot of problems with games RN, so you can buy everything [he
 
 ## Interesting games I would like to play:
 
-**Indie:**
+### **Indie:**
 
 - [MEGALITH by Nikita Kryukov (itch.io)](https://nikita-kryukov.itch.io/megalith)
 - [Daiku no Medium by Nikita Kryukov (itch.io)](https://nikita-kryukov.itch.io/daiku-no-medium)
-Triple A:
+### Triple A:
 - [Atomic Heart)](https://store.steampowered.com/app/668580/Atomic_Heart/)
 - [S.T.A.L.K.E.R. 2: Heart of Chornobyl)](https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/)
 - [Metro Exodus](https://store.steampowered.com/app/412020/Metro_Exodus/)
 - 
+### Coop:
+- [All Posts • Instagram](https://www.instagram.com/p/CmSVZzeATRp/) (any links on videos e.t.c. I will split and name all of them here later)
+- [All Posts • Instagram](https://www.instagram.com/p/CmjnO_HBmFW/)
+- [All Posts • Instagram](https://www.instagram.com/p/CoDbkkbgwLA/)
+- [All Posts • Instagram](https://www.instagram.com/p/CopwpQhD0oT/)
+- [All Posts • Instagram](https://www.instagram.com/p/Cn5BCqGgG7M/)
+- [All Posts • Instagram](https://www.instagram.com/p/CpU6mlNICOt/)
 
 
 
