@@ -1,4 +1,4 @@
-- [[AI Tools]]
+-  [[AI Tools]]
 
 >Will separate with details about each instrument later. First - on free, limited and paid. Then by type of work.
 

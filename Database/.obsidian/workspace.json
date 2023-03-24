@@ -11,8 +11,12 @@
             "id": "132d220d912ee940",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fun/AI Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fun/AI Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fun/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fun/AI Tools.md"
+              }
             }
           }
         ],
@@ -140,8 +148,9 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Fun/AI Tools.md",
     "Fun/Useful links.md",
+    "Fun/AI Tools.md",
+    "Health/Face Skin.md",
     "Fun/Games.md",
     "Fun/Fun.md",
     "Data Analyst/Dataset Websites.md",
@@ -155,7 +164,6 @@
     "Data Analyst/Russian Articles.md",
     "Untitled.canvas",
     "Travel/Useful links.md",
-    "Health/Face Skin.md",
     "Health/Health Work.md",
     "chat.openai.com.md",
     "Health/Physical Health.md",
