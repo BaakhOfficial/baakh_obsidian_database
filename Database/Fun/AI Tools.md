@@ -135,4 +135,5 @@ Image to Image:
 - [Phenaki](https://phenaki.video/)
 - [DreamFusion: Text-to-3D using 2D Diffusion (dreamfusion3d.github.io)](https://dreamfusion3d.github.io/index.html)
 - [DIB-R++ (nv-tlabs.github.io)](https://nv-tlabs.github.io/DIBRPlus/)
-- [All Posts • Instagram](https://www.instagram.com/p/CoEcrKfjN6j/) (How to use Midjourney indefinetly, should make a Medium Article about it)
+- [How to use Midjourney indefinitely for free almost privately | by Nikolay Baakh | Medium](https://medium.com/@baakhofficial/how-to-use-midjourney-indefinitely-for-free-almost-privately-4c103bd26523)
+
