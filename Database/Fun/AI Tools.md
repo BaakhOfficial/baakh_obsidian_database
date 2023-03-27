@@ -62,6 +62,7 @@
 
 **Image to Image:**
 - [AI Image Enlarger | Enlarge Image Without Losing Quality! (imglarger.com)](https://imglarger.com/)
+- [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free (imgupscaler.com)](https://www.imgupscaler.com/)
 
 **Full platforms:**
 - [Runway - Everything you need to make anything you want. (runwayml.com)](https://runwayml.com/)
