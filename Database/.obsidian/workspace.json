@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Russian Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Russian Articles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Russian Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/AI Tools.md"
+                "file": "Data Analyst/Russian Articles.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Fun/AI Tools.md",
+    "Data Analyst/English Articles.md",
+    "Data Analyst/Russian Articles.md",
+    "Data Analyst/Articles.md",
     "Fun/Useful links.md",
+    "Fun/AI Tools.md",
     "Health/Face Skin.md",
     "Fun/Games.md",
     "Fun/Fun.md",
@@ -160,8 +163,6 @@
     "Data Analyst/Data Analyst.md",
     "Main Page.md",
     "About Me/About Me.md",
-    "Data Analyst/Articles.md",
-    "Data Analyst/Russian Articles.md",
     "Untitled.canvas",
     "Travel/Useful links.md",
     "Health/Health Work.md",
@@ -179,7 +180,6 @@
     "_attachments/header page.jpg",
     "vk.com.md",
     "_attachments",
-    "header page.jpg.md",
     "header page.jpg",
     "Fun",
     "Phylosophy",

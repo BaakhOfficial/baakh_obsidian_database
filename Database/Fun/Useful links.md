@@ -8,3 +8,4 @@
 - https://github.com/pdechandon/holehe - search for an accounts registered on an email
 - [Open-Source UI elements - made with CSS and HTML (uiverse.io)](https://uiverse.io/)
 - [StoryTribe - Storyboarding App (storytribeapp.com)](https://storytribeapp.com/)
+- [Enrich your GitHub profile with these tips | by Zolzaya Luvsandorj | Towards Data Science](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05)

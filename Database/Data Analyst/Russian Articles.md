@@ -1,0 +1,16 @@
+> Here you can find articles on #Russian lanfguage I've already read and decided to share
+
+- [A/B тест — это просто / Хабр (habr.com)](https://habr.com/ru/post/233911/)
+- [RICE и ICE Scoring: простые техники приоритизации для продвинутых менеджеров продукта / Хабр (habr.com)](https://habr.com/ru/company/hygger/blog/422131/)
+- [Как получить ключ с максимальным значением в Python-словаре? — Teletype](https://teletype.in/@pythontalk/key_with_max_value)
+- [Поиск генераторов истинных случайных чисел / Хабр (habr.com)](https://habr.com/ru/company/vk/blog/408181/?ysclid=lOsc61h4vd)
+- [MVP – не дешевый продукт, а умный процесс познания / Хабр (habr.com)](https://habr.com/ru/post/187532/)
+- [Как продвигать стартап с помощью маркетинговой воронки AARRR | Медиа Нетологии (netology.ru)](https://netology.ru/blog/aarrr)
+- [Оптимизация запросов. Основы EXPLAIN в PostgreSQL / Хабр (habr.com)](https://habr.com/ru/post/203320/)
+- [Рекурсивные запросы в PostgreSQL (WITH RECURSIVE) / Хабр (habr.com)](https://habr.com/ru/post/269497/)
+- [Boxplots: Все, что вам нужно знать - pythobyte.com](https://pythobyte.com/boxplots-b1112c4c/)
+- [Как понимать Boxplot? (tidydata.ru)](https://tidydata.ru/boxplot)
+- [Цели SMART: Расшифровка + 10 примеров (на все случаи) (in-scale.ru)](https://in-scale.ru/blog/celi-smart/)
+- [p-значение | Data Science (datascientist.one)](http://datascientist.one/p-value/)
+- [Объясняем p-значения для начинающих Data Scientist’ов / Хабр (habr.com)](https://habr.com/ru/company/skillfactory/blog/510688/)
+- [lectures.db/rdb.rst at master · ustu/lectures.db (github.com)](https://github.com/ustu/lectures.db/blob/master/docs/databases/rdb.rst)
