@@ -1,14 +1,14 @@
 ## Employee
-
+ 
 **Nikolai Baakh** <br>**Data Analyst**
  
 ![[Photo.png]]
  
-Mail. baakh@protonmail.ch 
-**GitHub:** [ Nikolai Baakh | github.com ](https://github.com/BaakhOfficial)
-**LinkedIn:** [Nikolai Baakh | LinkedIn ](https://www.linkedin.com/in/baakhofficial/)
-**Twitter:**[Nikolai Baakh | Twitter](https://twitter.com/BaakhOfficial)
-
+Mail. baakh@protonmail.ch  
+**GitHub:** [ Nikolai Baakh | github.com ](https://github.com/BaakhOfficial) 
+**LinkedIn:** [Nikolai Baakh | LinkedIn ](https://www.linkedin.com/in/baakhofficial/) 
+**Twitter:**[Nikolai Baakh | Twitter](https://twitter.com/BaakhOfficial) 
+ 
 ## **Key competencies**
 
 - Database Management
@@ -69,16 +69,17 @@ Mail. baakh@protonmail.ch
   
 ## **Education**
   
-### **2014-2017 Tomsk Polytechnic University** 
-[**Website** ](https://www.abiturient.tpu.ru/en/direction/en120304+) 
+### **2014-2017 Tomsk Polytechnic University**
+[**Website** ](https://www.abiturient.tpu.ru/en/direction/en120304+)  
 
 «Medical Equipment Engineer», Biotechnical Systems and Technologies, Unfinished Bachelor's degree 
 
 ## **Courses:** 
  
 ### **2022 - 2023 Netology** 
-[Website ](https://netology.ru/programs/data_analyst_ultimate)
-Data Analyst from Zero to Middle
+[Website ](https://netology.ru/programs/data_analyst_ultimate) 
+ 
+Data Analyst from Zero to Middle 
  
 ## **Additional Information:**
 
