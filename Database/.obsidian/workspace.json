@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyst/Russian Articles.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Russian Articles.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Russian Articles.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyst/Russian Articles.md"
+                "file": "Data Analyst/Tools and Links.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Data Analyst/English Articles.md",
+    "Data Analyst/Data Analyst.md",
+    "Data Analyst/Tools and Links.md",
+    "Data Analyst/Dataset Websites.md",
     "Data Analyst/Russian Articles.md",
+    "Data Analyst/English Articles.md",
     "Data Analyst/Articles.md",
     "Fun/Useful links.md",
     "Fun/AI Tools.md",
     "Health/Face Skin.md",
     "Fun/Games.md",
     "Fun/Fun.md",
-    "Data Analyst/Dataset Websites.md",
     "Travel/Kazakhstan.md",
     "Data Analyst/Book Recommendations.md",
     "Travel/Travel.md",
-    "Data Analyst/Data Analyst.md",
     "Main Page.md",
     "About Me/About Me.md",
     "Untitled.canvas",
@@ -178,7 +179,6 @@
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
     "_attachments/header page.jpg",
-    "vk.com.md",
     "_attachments",
     "header page.jpg",
     "Fun",

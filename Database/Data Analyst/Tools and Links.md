@@ -1,0 +1,36 @@
+>Useful and interesting tools for Data Alanyst
+
+# Statistics
+- [Sample Size Calculator (Evan’s Awesome A/B Tools) (evanmiller.org)](https://www.evanmiller.org/ab-testing/sample-size.html#!0.15;80;5;0.05;0)
+- [Distribution Calculator (shinyapps.io)](https://gallery.shinyapps.io/dist_calc/)
+
+# Presentation
+- [Canvanizer](https://canvanizer.com/)
+- [Tome - The AI-powered storytelling format](https://beta.tome.app/)
+- [Figma: the collaborative interface design tool.](https://www.figma.com/)
+- [The Visual Collaboration Platform for Every Team | Miro](https://miro.com/)
+- [Untitled Diagram - diagrams.net](https://app.diagrams.net/)
+
+# Visualisation and Dashboards
+- [Qlik | Analytics & Data Integration Platform](https://www.qlik.com/us/)
+- [Business Intelligence and Analytics Software (tableau.com)](https://www.tableau.com/)
+- [Looker Studio (google.com)](https://lookerstudio.google.com/u/0/navigation/reporting)
+- [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
+
+# PostgreSQL 
+- [New explain | explain.depesz.com](https://explain.depesz.com/)
+- [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
+
+# Randomization
+- [ANU QRNG – Quantum random numbers](http://150.203.48.55/index.php)
+- [HotBits: Genuine Random Numbers (fourmilab.ch)](https://www.fourmilab.ch/hotbits/)
+- [RANDOM.ORG - True Random Number Service](https://www.random.org/)
+- [Quantum Random Bit Generator Service (irb.hr)](http://random.irb.hr/)
+
+# A/B testing
+- [Optimize (google.com)](https://optimize.google.com/)
+
+# Other
+- [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
+- [Airtable | Create apps that perfectly fit your team's needs](https://www.airtable.com/)
+- [Framer — Design and ship your dream site. Zero code, maximum speed.](https://www.framer.com/)
