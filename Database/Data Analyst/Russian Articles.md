@@ -14,3 +14,6 @@
 - [p-значение | Data Science (datascientist.one)](http://datascientist.one/p-value/)
 - [Объясняем p-значения для начинающих Data Scientist’ов / Хабр (habr.com)](https://habr.com/ru/company/skillfactory/blog/510688/)
 - [lectures.db/rdb.rst at master · ustu/lectures.db (github.com)](https://github.com/ustu/lectures.db/blob/master/docs/databases/rdb.rst)
+- [7 кейсов использования технологий Big Data в сфере производства / Хабр (habr.com)](https://habr.com/ru/company/newprolab/blog/325550/)
+- [Прогнозная аналитика в повседневной жизни - 17 историй. (ivanov-seo.ru)](https://ivanov-seo.ru/prognoznaya-analitika-v-zhizni)
+- [Алгоритмы составления сопроводительного письма (google.com)](https://docs.google.com/document/u/0/d/1hvRq_i36ZzMo5H8N0grKxr6gxKR5Z5RIaz1Ypn_T6co/mobilebasic)

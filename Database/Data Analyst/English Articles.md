@@ -6,3 +6,4 @@
 - [Linear Discriminant Analysis in Python (Step-by-Step) (statology.org)](https://www.statology.org/linear-discriminant-analysis-in-python/)
 - [Be careful with CTE in PostgreSQL | by Haki Benita | Medium](https://hakibenita.medium.com/be-careful-with-cte-in-postgresql-fca5e24d2119)
 - [10 minutes to pandas — pandas 1.5.3 documentation (pydata.org)](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [Sentiment analysis on reviews: Feature Extraction and Logistic Regression | by Anna Bianca Jones | Medium](https://medium.com/@annabiancajones/sentiment-analysis-on-reviews-feature-extraction-and-logistic-regression-43a29635cc81)

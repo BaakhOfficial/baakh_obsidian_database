@@ -30,6 +30,15 @@
 # A/B testing
 - [Optimize (google.com)](https://optimize.google.com/)
 
+# CodeGames
+- [PostgreSQL Exercises (pgexercises.com)](https://pgexercises.com/)
+- [Create Account - HackerRank](https://www.hackerrank.com/create-account/)
+- [StrataScratch - Coding Questions](https://platform.stratascratch.com/coding?code_type=1)
+- [CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/)
+- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+- [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/start)
+- [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
+
 # Other
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [Airtable | Create apps that perfectly fit your team's needs](https://www.airtable.com/)
