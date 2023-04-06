@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Fun/AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Fun/AI Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Fun/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyst/Tools and Links.md"
+                "file": "Fun/AI Tools.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
+    "_attachments/Pasted image 20230407001825.png",
+    "Data Analyst/Tools and Links.md",
+    "Main Page.md",
     "Data Analyst/English Articles.md",
     "Data Analyst/Russian Articles.md",
     "About Me/CV.md",
     "About Me/Bio.md",
     "About Me/About Me.md",
-    "Main Page.md",
     "_attachments/header page.jpg",
     "_attachments/Photo.png",
     "_attachments/Picture.png",
@@ -161,7 +163,6 @@
     "About Me/Contact Info.md",
     "Fun/Games.md",
     "Fun/Stupid funny things.md",
-    "Data Analyst/Tools and Links.md",
     "Data Analyst/Data Analyst.md",
     "Data Analyst/Dataset Websites.md",
     "Data Analyst/Articles.md",

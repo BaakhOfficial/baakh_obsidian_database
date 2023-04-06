@@ -15,10 +15,15 @@
 - [Dream by WOMBO](https://dream.ai/create)
 - [Text-to-image Stable Diffusion AI Image Generator (free / freemium) - Dezgo](https://dezgo.com/)
 - [Convert English text to Arpabet for pronunciation (uberduck.ai)](https://app.uberduck.ai/g2p)
+- [Skybox Lab (blockadelabs.com)](https://skybox.blockadelabs.com/) (360 degree Images)
 
 **Text to Text**
 - [Stories - NovelAI](https://novelai.net/stories)
 - https://chat.openai.com/chat
+- [WriteMe.ai - Ai Writer - Content Writing Assistant & Creator](https://writeme.ai/)
+- [Using Notion AI to extend your impact](https://www.notion.so/help/guides/using-notion-ai)
+- [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/)
+- [Paraphrasing Tool - QuillBot AI](https://quillbot.com/)
 
 **Text to Video**
 - https://app.fliki.ai/studio
@@ -33,17 +38,25 @@
 **Audio to Audio**
 - [Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/)
 - [Enhance Speech from Adobe | Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
+- [Podcastle: Seamless Podcast Recording & Editing](https://podcastle.ai/)
 
 **Image to Image:**
 - [rinongal/stylegan-nada – Run with an API on Replicate](https://replicate.com/rinongal/stylegan-nada)
+- [PicWish AI Photo Editor | Free Online Photo Editing Tools](https://picwish.com/)
 
 **Text to Code:**
 - https://chat.openai.com/chat
+
+Extensions
+- [Merlin - ChatGPT Assistant for All Websites - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec)
 
 **Specific Usecases:**
 - [Imagen: Media Asset Management and Content Distribution](https://imagen.io/)
 - [AutoDraw](https://www.autodraw.com/)
 - [This Person Does Not Exist - Free AI Face Generator](https://thispersondoesnotexist.xyz/)
+- https://discord.gg/dbPGQQtG - Tinder AI
+- [Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence](https://interiorai.com/)
+- [Andi - Search for the next generation (andisearch.com)](https://andisearch.com/)
 
 ### 🔒 Limited
 
@@ -59,10 +72,18 @@
 
 **Text to Text:**
 - [Rytr - Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
+- [Wordtune | Your personal writing assistant & editor](https://www.wordtune.com/)
 
 **Image to Image:**
 - [AI Image Enlarger | Enlarge Image Without Losing Quality! (imglarger.com)](https://imglarger.com/)
 - [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free (imgupscaler.com)](https://www.imgupscaler.com/)
+
+Video to Video
+- [Wisecut | Automatic Video Editor](https://www.wisecut.video/)
+- [Descript | All-in-one video & podcast editing, easy as a doc.](https://www.descript.com/)
+
+Audio to Audio
+- [Audo Studio | One Click Audio Cleaning](https://audo.ai/)
 
 **Full platforms:**
 - [Runway - Everything you need to make anything you want. (runwayml.com)](https://runwayml.com/)
@@ -72,11 +93,18 @@
 	- Audio to Audio
 	- Video to Text
 	- Text to Color Grade
+- [Apps - brancher.ai](https://app.brancher.ai/apps)
+	- Can create a full AI tools mixing other tools
+
+Specific usecases:
+- [Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings](https://fireflies.ai/)
+- https://chat.kuki.ai/
 
 ### 💰Paid
 
 **Text to text**
 - [Jasper - AI Copywriter | AI Content Generator for Teams](https://www.jasper.ai/)
+- [Addy AI - Your AI Email Assistant (addy-ai.com)](https://addy-ai.com/)
 
 **Text to Image**
 - [Image Generation - NovelAI](https://novelai.net/image)
@@ -90,8 +118,24 @@
 - [AI Voice Generator & Realistic Text to Speech Online | Play.ht](https://play.ht/)
 - [AI Voice Generator and Voice Cloning for Text to Speech - Resemble AI](https://www.resemble.ai/)
 
+Text to video:
+- [D-ID | The #1 Choice for AI Generated Video Creation Platform](https://www.d-id.com/)
+
 **Text to Code:**
 - [BLACKBOX AI (useblackbox.io)](https://www.useblackbox.io/)
+
+Image to Image:
+- [Avatar AI - Create AI Avatars, Magic Avatars, AI Profile Pictures (PFPs), AI Photography, Photorealistic AI, Pet Portraits, Dating Photos, Couples Photoshoot, LinkedIn Professional Profile Photos with Artificial Intelligence using Stable Diffusion and Dreambooth](https://avatarai.me/?promo=easter)
+- [Pebblely AI Product Photography | Create beautiful product photos in seconds with AI](https://pebblely.com/)
+
+Video to Video:
+- [Create a video for your e-commerce business (oxolo.com)](https://www.oxolo.com/)
+- [2short.ai - AI YouTube Shorts generator](https://2short.ai/)
+
+Specific usecases:
+- [Architechtures - AI-Powered Building Design](https://architechtures.com/en/)
+- [Repurposing content for social media the easy way » Repurpose.io](https://repurpose.io/)
+- [Timely - Time Tracking Software (timelyapp.com)](https://timelyapp.com/)
 
 ### 🕐 Early Access
 
@@ -99,6 +143,12 @@
 - [Galileo AI · Copilot for interface design (usegalileo.ai)](https://www.usegalileo.ai/)
 - [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com/)
 - [Home Page - Wonder Dynamics](https://wonderdynamics.com/)
+- [Home | Celtra](https://celtra.com/)
+
+### 📝 Prompts
+
+**ChatGPT:**
+- [Prompt Vibes](https://www.promptvibes.com/)
 
 ---
 ## Needs installation
@@ -125,6 +175,7 @@ Image to Image:
 - [WonderAI - AI Art Generator on the App Store (apple.com)](https://apps.apple.com/by/app/wonderai-ai-art-generator/id1659587875)
 - [Wombo: Make your selfies sing - Apps on Google Play](https://play.google.com/store/apps/details?id=com.womboai.wombo&gl=US&pli=1)
 - [ClipDrop](https://clipdrop.co/)
+- [DoNotPay - The World's First Robot Lawyer](https://donotpay.com/)
 
 ---
 ## Interesting developers, links and research papers
