@@ -16,7 +16,7 @@ I can make a lot of links, but it will turn everything into mess. I want it to b
 ## Table of contents:
 
 - [[About Me]]
-- [[Data Analyst]]
+- [[Data Analyst or IT]]
 - [[Phylosophy]]
 - [[Health Work]]
 - [[Travel]]

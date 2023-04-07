@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/AI Tools.md",
-                "mode": "source",
+                "file": "Data Analyst/API's.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/API's.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/API's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/AI Tools.md"
+                "file": "Data Analyst/API's.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "_attachments/Pasted image 20230407001825.png",
+    "Data Analyst/API's.md",
     "Data Analyst/Tools and Links.md",
+    "Data Analyst/Data Analyst or IT.md",
+    "Fun/AI Tools.md",
+    "_attachments/Pasted image 20230407001825.png",
     "Main Page.md",
     "Data Analyst/English Articles.md",
     "Data Analyst/Russian Articles.md",
@@ -163,11 +166,9 @@
     "About Me/Contact Info.md",
     "Fun/Games.md",
     "Fun/Stupid funny things.md",
-    "Data Analyst/Data Analyst.md",
     "Data Analyst/Dataset Websites.md",
     "Data Analyst/Articles.md",
     "Fun/Useful links.md",
-    "Fun/AI Tools.md",
     "Health/Face Skin.md",
     "Fun/Fun.md",
     "Travel/Kazakhstan.md",
