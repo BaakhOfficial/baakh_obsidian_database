@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Games.md",
+                "file": "Fun/Stuff I Want.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/Games.md",
+                "file": "Fun/Stuff I Want.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/Games.md",
+                "file": "Fun/Stuff I Want.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/Games.md"
+                "file": "Fun/Stuff I Want.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
+    "Fun/Fun.md",
+    "Fun/Stuff I Want.md",
+    "Fun/Games.md",
     "Data Analyst/API's.md",
     "Data Analyst/Tools and Links.md",
     "Data Analyst/Data Analyst or IT.md",
@@ -164,13 +167,11 @@
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
     "About Me/Contact Info.md",
-    "Fun/Games.md",
     "Fun/Stupid funny things.md",
     "Data Analyst/Dataset Websites.md",
     "Data Analyst/Articles.md",
     "Fun/Useful links.md",
     "Health/Face Skin.md",
-    "Fun/Fun.md",
     "Travel/Kazakhstan.md",
     "Data Analyst/Book Recommendations.md",
     "Travel/Travel.md",
@@ -179,7 +180,6 @@
     "Health/Health Work.md",
     "chat.openai.com.md",
     "Health/Physical Health.md",
-    "Data Analyst/Excel/How To.md",
     "Data Analyst/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
