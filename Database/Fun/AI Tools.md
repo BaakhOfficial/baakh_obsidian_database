@@ -24,6 +24,8 @@
 - [Using Notion AI to extend your impact](https://www.notion.so/help/guides/using-notion-ai)
 - [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/)
 - [Paraphrasing Tool - QuillBot AI](https://quillbot.com/)
+- [The UNDETECTABLE AI Writing Tool That Matches Your Brand Voice](https://undetectable.ai/)
+- 
 
 **Text to Video**
 - https://app.fliki.ai/studio
@@ -55,6 +57,7 @@ Extensions
 - [AutoDraw](https://www.autodraw.com/)
 - [This Person Does Not Exist - Free AI Face Generator](https://thispersondoesnotexist.xyz/)
 - https://discord.gg/dbPGQQtG - Tinder AI
+- [Home | RizzGPT](https://www.rizzgpt.app/)
 - [Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence](https://interiorai.com/)
 - [Andi - Search for the next generation (andisearch.com)](https://andisearch.com/)
 

@@ -19,4 +19,3 @@
 - [Devin L Smith (@end_of_line_designs) • Instagram photos and videos](https://www.instagram.com/end_of_line_designs/)
 - [MSCHF Blur $20 USD Figure - US (stockx.com)](https://stockx.com/mschf-blur-figure)
 - [Spyra | Start the epic!](https://spyra.com/collections/all)
-- 

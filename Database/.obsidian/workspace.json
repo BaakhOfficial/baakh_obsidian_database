@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/Useful links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/Useful links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/Useful links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/Stuff I Want.md"
+                "file": "Fun/Useful links.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Fun/Fun.md",
+    "Fun/AI Tools.md",
     "Fun/Stuff I Want.md",
+    "Fun/Fun.md",
     "Fun/Games.md",
     "Data Analyst/API's.md",
     "Data Analyst/Tools and Links.md",
     "Data Analyst/Data Analyst or IT.md",
-    "Fun/AI Tools.md",
     "_attachments/Pasted image 20230407001825.png",
     "Main Page.md",
     "Data Analyst/English Articles.md",
