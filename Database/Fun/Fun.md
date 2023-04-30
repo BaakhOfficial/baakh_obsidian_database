@@ -1,4 +1,4 @@
-[[Stupid funny things]]
+[[Stupid funny links]]
 [[Games]]
 [[Cinema]]
 [[Useful links]]

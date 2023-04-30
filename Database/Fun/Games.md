@@ -28,7 +28,8 @@ In Russia we've had a lot of problems with games RN, so you can buy everything [
 - [ibb & obb on Steam (steampowered.com)](https://store.steampowered.com/app/95400/ibb__obb/)
 - [Blanc on Steam (steampowered.com)](https://store.steampowered.com/app/1982340/Blanc/)
 - [Gravewood High on Steam (steampowered.com)](https://store.steampowered.com/app/1239300/Gravewood_High/)
-- 
+- [Retail Royale on Steam (steampowered.com)](https://store.steampowered.com/app/1557990/Retail_Royale/)
+
 
 ### Multiplayer
 - [HYPERCHARGE: Unboxed on Steam (steampowered.com)](https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/)

@@ -21,6 +21,8 @@
 - [Devin L Smith (@end_of_line_designs) • Instagram photos and videos](https://www.instagram.com/end_of_line_designs/)
 - [MSCHF Blur $20 USD Figure - US (stockx.com)](https://stockx.com/mschf-blur-figure)
 - [Spyra | Start the epic!](https://spyra.com/collections/all)
+- [Products – Tochen Design](https://tochendesign.com/pages/products)
+- 
 
 ## Not For Me, but cool
 - [Amazon.com: Yeyo LED Eyelashes Waterproof LED Light Eyelash Shining Eyeliner Charming Unique Eyelid Tape for Party Bar Nightclub Concerts Gift Halloween Day (Blue) : Home & Kitchen](https://www.amazon.com/Eyelashes-Waterproof-Eyeliner-NightClub-Halloween/dp/B074WFD9KV/ref=sr_1_2?keywords=led%2Beyelashes&qid=1682865949&sr=8-2&th=1)

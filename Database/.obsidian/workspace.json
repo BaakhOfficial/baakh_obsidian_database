@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/AI Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/Stuff I Want.md",
+                "file": "Fun/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/Stuff I Want.md"
+                "file": "Fun/AI Tools.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "132d220d912ee940",
   "lastOpenFiles": [
-    "Data Analyst/Tools and Links.md",
-    "Fun/Games.md",
-    "Fun/Fun.md",
     "Fun/Cinema.md",
-    "Fun/Stuff I Want.md",
-    "Fun/Useful links.md",
+    "Fun/Fun.md",
+    "Fun/Games.md",
     "Fun/AI Tools.md",
+    "Fun/Useful links.md",
+    "Fun/Stupid funny links.md",
+    "Fun/Stuff I Want.md",
+    "Data Analyst/Tools and Links.md",
     "Data Analyst/API's.md",
     "Data Analyst/Data Analyst or IT.md",
     "_attachments/Pasted image 20230407001825.png",
@@ -169,7 +170,6 @@
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
     "About Me/Contact Info.md",
-    "Fun/Stupid funny things.md",
     "Data Analyst/Dataset Websites.md",
     "Data Analyst/Articles.md",
     "Health/Face Skin.md",

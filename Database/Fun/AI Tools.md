@@ -7,6 +7,9 @@
 
 ### 🆓 Free
 
+**AI Agents**
+- [AgentGPT (reworkd.ai)](https://agentgpt.reworkd.ai/)
+
 **Text to image:** 
 - [Mage 🧙 | Free, Fast, Unfiltered Stable Diffusion](https://www.mage.space/?apiKey=AIzaSyAzUV2NNUOlLTL04jwmUw9oLhjteuv6Qr4&oobCode=TiCrzadrd-9X8Oz3ojlc4pkqWLkpJyXrMgBx2d8oDhkAAAGFEg5KmA&mode=signIn&lang=en)
 - [Stable Diffusion Online (stablediffusionweb.com)](https://stablediffusionweb.com/#demo)
@@ -25,7 +28,6 @@
 - [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/)
 - [Paraphrasing Tool - QuillBot AI](https://quillbot.com/)
 - [The UNDETECTABLE AI Writing Tool That Matches Your Brand Voice](https://undetectable.ai/)
-- 
 
 **Text to Video**
 - https://app.fliki.ai/studio
@@ -60,6 +62,8 @@ Extensions
 - [Home | RizzGPT](https://www.rizzgpt.app/)
 - [Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence](https://interiorai.com/)
 - [Andi - Search for the next generation (andisearch.com)](https://andisearch.com/)
+- [Remove a Password From a PDF File Online Free - TinyWow](https://tinywow.com/pdf/unlock)
+- 
 
 ### 🔒 Limited
 
@@ -105,6 +109,9 @@ Specific usecases:
 
 ### 💰Paid
 
+**AI Agents**
+- [Auto-GPT - The next evolution of data driven Chat AI](https://auto-gpt.ai/)
+
 **Text to text**
 - [Jasper - AI Copywriter | AI Content Generator for Teams](https://www.jasper.ai/)
 - [Addy AI - Your AI Email Assistant (addy-ai.com)](https://addy-ai.com/)
@@ -120,6 +127,8 @@ Specific usecases:
 **Text to Speech**
 - [AI Voice Generator & Realistic Text to Speech Online | Play.ht](https://play.ht/)
 - [AI Voice Generator and Voice Cloning for Text to Speech - Resemble AI](https://www.resemble.ai/)
+- [FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)
+- 
 
 Text to video:
 - [D-ID | The #1 Choice for AI Generated Video Creation Platform](https://www.d-id.com/)
@@ -134,6 +143,7 @@ Image to Image:
 Video to Video:
 - [Create a video for your e-commerce business (oxolo.com)](https://www.oxolo.com/)
 - [2short.ai - AI YouTube Shorts generator](https://2short.ai/)
+- [AutoPod | Automatic Podcast Editing for Premiere Pro](https://www.autopod.fm/?trk=public_post-text)
 
 Specific usecases:
 - [Architechtures - AI-Powered Building Design](https://architechtures.com/en/)
