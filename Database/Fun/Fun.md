@@ -1,4 +1,5 @@
 [[Stupid funny things]]
 [[Games]]
+[[Cinema]]
 [[Useful links]]
 [[Stuff I Want]]

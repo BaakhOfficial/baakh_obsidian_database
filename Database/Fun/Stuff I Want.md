@@ -10,6 +10,8 @@
 - [1 шт., самоклеящиеся крючки-Вешалки для дверей спальни - купить по выгодной цене | AliExpress](https://aliexpress.ru/item/1005005393789909.html?sku_id=12000032880134940&spm=a2g2w.productlist.search_results.4.23fa4aa6SyfQ4v)
 - [Держатель для губки для кухни, прикроватная полка для губки, АБС-пластик - купить по выгодной цене | AliExpress](https://aliexpress.ru/item/1005004114781662.html?sku_id=12000028080374969&spm=a2g2w.productlist.search_results.10.42c64aa6JaKDlL)
 - [Музыкальные игрушки-антистресс, разыгрывающие игрушки, игрушки для снятия стресса, игрушки для снятия стресса - купить по выгодной цене | AliExpress](https://aliexpress.ru/item/1005005338392394.html?sku_id=12000032663332043&spm=.search_results.0.45264aa6tfbV8R)
+- [Amazon.com: You Laugh You Drink - The Drinking Game for People Who Can't Keep a Straight Face [A Party Game] : Toys & Games](https://www.amazon.com/You-Laugh-Drink-Drinking-Straight/dp/B08FCVJ7N2)
+- 
 
 ## Stupid clothing
 - [You Attract What You Fear Unisex Hoodie – Got Funny? (gotfunnymerch.com)](https://gotfunnymerch.com/products/you-attract-what-you-fear-unisex-hoodie)
@@ -19,3 +21,6 @@
 - [Devin L Smith (@end_of_line_designs) • Instagram photos and videos](https://www.instagram.com/end_of_line_designs/)
 - [MSCHF Blur $20 USD Figure - US (stockx.com)](https://stockx.com/mschf-blur-figure)
 - [Spyra | Start the epic!](https://spyra.com/collections/all)
+
+## Not For Me, but cool
+- [Amazon.com: Yeyo LED Eyelashes Waterproof LED Light Eyelash Shining Eyeliner Charming Unique Eyelid Tape for Party Bar Nightclub Concerts Gift Halloween Day (Blue) : Home & Kitchen](https://www.amazon.com/Eyelashes-Waterproof-Eyeliner-NightClub-Halloween/dp/B074WFD9KV/ref=sr_1_2?keywords=led%2Beyelashes&qid=1682865949&sr=8-2&th=1)
