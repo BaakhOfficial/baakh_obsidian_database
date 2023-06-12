@@ -8,6 +8,7 @@ In Russia we've had a lot of problems with games RN, so you can buy everything [
 
 ### Interesting
 - [REKA on Steam (steampowered.com)](https://store.steampowered.com/app/1737870/REKA/)
+- [Viewfinder on Steam (steampowered.com)](https://store.steampowered.com/app/1382070/Viewfinder/) 
 
 ### Triple A:
 - [Atomic Heart)](https://store.steampowered.com/app/668580/Atomic_Heart/)

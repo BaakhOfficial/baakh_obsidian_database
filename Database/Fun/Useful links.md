@@ -11,3 +11,5 @@
 - [Enrich your GitHub profile with these tips | by Zolzaya Luvsandorj | Towards Data Science](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05)
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) - hacking tutorial
 - [Canarytokens](https://canarytokens.org/generate) - honeypot tokens generator
+- [All Posts • Instagram](https://www.instagram.com/p/Cp2mLiDjNki/) - how to find almost any book for free
+- [FaceCheck - Reverse Image Search - Face Recognition Search Engine](https://facecheck.id/)

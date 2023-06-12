@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fun/Stuff I Want.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da4451e1c6cc8282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Fun/AI Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +75,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "92211ec37b355229",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,23 +167,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "132d220d912ee940",
+  "active": "da4451e1c6cc8282",
   "lastOpenFiles": [
-    "Fun/Cinema.md",
-    "Fun/Fun.md",
-    "Fun/Games.md",
-    "Fun/AI Tools.md",
-    "Fun/Useful links.md",
-    "Fun/Stupid funny links.md",
     "Fun/Stuff I Want.md",
+    "Fun/Stupid funny links.md",
+    "Fun/Useful links.md",
     "Data Analyst/Tools and Links.md",
-    "Data Analyst/API's.md",
-    "Data Analyst/Data Analyst or IT.md",
-    "_attachments/Pasted image 20230407001825.png",
+    "Fun/AI Tools.md",
+    "Fun/Cinema.md",
+    "Fun/Games.md",
     "Main Page.md",
-    "Data Analyst/English Articles.md",
+    "Content Creation/Tools.md",
+    "Content Creation/Content creation.md",
+    "Content Creation",
     "Data Analyst/Russian Articles.md",
+    "Data Analyst/English Articles.md",
+    "Data Analyst/Dataset Websites.md",
+    "Data Analyst/Data Analyst or IT.md",
+    "Data Analyst/API's.md",
+    "Data Analyst/Book Recommendations.md",
+    "Travel/Useful links.md",
+    "Travel/Kazakhstan.md",
     "About Me/CV.md",
+    "Health/Face Skin.md",
+    "Fun/Fun.md",
+    "_attachments/Pasted image 20230407001825.png",
     "About Me/Bio.md",
     "About Me/About Me.md",
     "_attachments/header page.jpg",
@@ -170,16 +199,9 @@
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
     "About Me/Contact Info.md",
-    "Data Analyst/Dataset Websites.md",
     "Data Analyst/Articles.md",
-    "Health/Face Skin.md",
-    "Travel/Kazakhstan.md",
-    "Data Analyst/Book Recommendations.md",
     "Travel/Travel.md",
     "Untitled.canvas",
-    "Travel/Useful links.md",
-    "Health/Health Work.md",
-    "chat.openai.com.md",
     "Data Analyst/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
@@ -191,7 +213,6 @@
     "Health",
     "Main Pages",
     "About Me",
-    "Data Analyst",
     "Untitled 1.canvas"
   ]
 }

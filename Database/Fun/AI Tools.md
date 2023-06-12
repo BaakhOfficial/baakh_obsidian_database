@@ -7,6 +7,9 @@
 
 ### 🆓 Free
 
+**Colab Notebooks:**
+- [1_click_deep_fake_for_free_by_SECourses.ipynb - Colaboratory (google.com)](https://colab.research.google.com/github/FurkanGozukara/Stable-Diffusion/blob/main/ColabNotebooks/1_click_deep_fake_for_free_by_SECourses.ipynb) - DeepFake videos
+
 **AI Agents**
 - [AgentGPT (reworkd.ai)](https://agentgpt.reworkd.ai/)
 
@@ -43,6 +46,7 @@
 - [Free Real Time Voice Changer & Modulator - Voicemod](https://www.voicemod.net/)
 - [Enhance Speech from Adobe | Free AI filter for cleaning up spoken audio](https://podcast.adobe.com/enhance)
 - [Podcastle: Seamless Podcast Recording & Editing](https://podcastle.ai/)
+- [Free Real Time Voice Changer for PC - Voice.ai](https://voice.ai/)
 
 **Image to Image:**
 - [rinongal/stylegan-nada – Run with an API on Replicate](https://replicate.com/rinongal/stylegan-nada)
@@ -63,7 +67,9 @@ Extensions
 - [Interior AI: Interior Design Ideas Inspiration, and Virtual Staging App using Artifical Intelligence](https://interiorai.com/)
 - [Andi - Search for the next generation (andisearch.com)](https://andisearch.com/)
 - [Remove a Password From a PDF File Online Free - TinyWow](https://tinywow.com/pdf/unlock)
-- 
+- [LifeAt Spaces](https://lifeat.io/ai)
+- [VERAS | EvolveLAB](https://www.evolvelab.io/veras)
+- [Realiste online AI broker for real estate investments](https://realiste.io/)
 
 ### 🔒 Limited
 
@@ -106,11 +112,16 @@ Audio to Audio
 Specific usecases:
 - [Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings](https://fireflies.ai/)
 - https://chat.kuki.ai/
+- [New tab (uizard.com)](https://uizard.com/)
+- 
 
 ### 💰Paid
 
 **AI Agents**
 - [Auto-GPT - The next evolution of data driven Chat AI](https://auto-gpt.ai/)
+
+**Text to audio**:
+- [Pricing - ElevenLabs](https://beta.elevenlabs.io/pricing)
 
 **Text to text**
 - [Jasper - AI Copywriter | AI Content Generator for Teams](https://www.jasper.ai/)
@@ -123,15 +134,18 @@ Specific usecases:
 - [AssemblyAI | AI models to transcribe and understand speech](https://www.assemblyai.com/) 
 - [AI Art Generator | AI Image Generator - Jasper Art](https://www.jasper.ai/art)
 - [Design A New Logo & Brand You Love! - LogoAi.com](https://www.logoai.com/)
+- [AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI](https://stockimg.ai/)
+- 
 
 **Text to Speech**
 - [AI Voice Generator & Realistic Text to Speech Online | Play.ht](https://play.ht/)
 - [AI Voice Generator and Voice Cloning for Text to Speech - Resemble AI](https://www.resemble.ai/)
 - [FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)
-- 
 
 Text to video:
 - [D-ID | The #1 Choice for AI Generated Video Creation Platform](https://www.d-id.com/)
+- [Pipio | AI Videos in Minutes (mypipio.com)](https://mypipio.com/)
+- 
 
 **Text to Code:**
 - [BLACKBOX AI (useblackbox.io)](https://www.useblackbox.io/)
@@ -139,16 +153,22 @@ Text to video:
 Image to Image:
 - [Avatar AI - Create AI Avatars, Magic Avatars, AI Profile Pictures (PFPs), AI Photography, Photorealistic AI, Pet Portraits, Dating Photos, Couples Photoshoot, LinkedIn Professional Profile Photos with Artificial Intelligence using Stable Diffusion and Dreambooth](https://avatarai.me/?promo=easter)
 - [Pebblely AI Product Photography | Create beautiful product photos in seconds with AI](https://pebblely.com/)
+- [Free AI Image Generator & AI Enhance | neural.love](https://neural.love/)
 
 Video to Video:
 - [Create a video for your e-commerce business (oxolo.com)](https://www.oxolo.com/)
 - [2short.ai - AI YouTube Shorts generator](https://2short.ai/)
 - [AutoPod | Automatic Podcast Editing for Premiere Pro](https://www.autopod.fm/?trk=public_post-text)
+- [Pictory – Video Marketing Made Easy - Pictory.ai](https://pictory.ai/)
+- [Opus Clip - AI-powered Video Repurposing](https://www.opus.pro/)
 
 Specific usecases:
 - [Architechtures - AI-Powered Building Design](https://architechtures.com/en/)
 - [Repurposing content for social media the easy way » Repurpose.io](https://repurpose.io/)
 - [Timely - Time Tracking Software (timelyapp.com)](https://timelyapp.com/)
+- [Cody - Business AI Employee Trained on Your Knowledge Base (meetcody.ai)](https://meetcody.ai/)
+- [Job GPT : Automate Job Search using AI powered job application automation tool (lazyapply.com)](https://lazyapply.com/)
+- 
 
 ### 🕐 Early Access
 
@@ -157,6 +177,9 @@ Specific usecases:
 - [Microsoft Designer - Stunning designs in a flash](https://designer.microsoft.com/)
 - [Home Page - Wonder Dynamics](https://wonderdynamics.com/)
 - [Home | Celtra](https://celtra.com/)
+- [Finch – Optimizing Architecture (finch3d.com)](https://www.finch3d.com/)
+- [SWAPP | AI-Powered Construction Documents in minutes.](https://www.swapp.ai/)
+- [AI Modelling Agency | Deep Agency](https://www.deepagency.com/)
 
 ### 📝 Prompts
 
@@ -189,6 +212,8 @@ Image to Image:
 - [Wombo: Make your selfies sing - Apps on Google Play](https://play.google.com/store/apps/details?id=com.womboai.wombo&gl=US&pli=1)
 - [ClipDrop](https://clipdrop.co/)
 - [DoNotPay - The World's First Robot Lawyer](https://donotpay.com/)
+- [Captions | Your AI-powered creative studio](https://www.captions.ai/)
+- 
 
 ---
 ## Interesting developers, links and research papers
@@ -201,4 +226,7 @@ Image to Image:
 - [DreamFusion: Text-to-3D using 2D Diffusion (dreamfusion3d.github.io)](https://dreamfusion3d.github.io/index.html)
 - [DIB-R++ (nv-tlabs.github.io)](https://nv-tlabs.github.io/DIBRPlus/)
 - [How to use Midjourney indefinitely for free almost privately | by Nikolay Baakh | Medium](https://medium.com/@baakhofficial/how-to-use-midjourney-indefinitely-for-free-almost-privately-4c103bd26523)
+---
+## Lists:
+- [digitalSamaritan | Home](https://www.digitalsamaritan.co/)
 
