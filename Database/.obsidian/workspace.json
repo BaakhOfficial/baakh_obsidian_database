@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2aa293b38dee9a",
+        "id": "bf8ff45d1d4de4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "132d220d912ee940",
+            "id": "9af1b509ec558c9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fun/Stuff I Want.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da4451e1c6cc8282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analyst/Tools and Links.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Analyst/Tools and Links.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da4451e1c6cc8282",
+  "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
-    "Fun/Useful links.md",
-    "Data Analyst/Tools and Links.md",
-    "Fun/AI Tools.md",
     "Fun/Stuff I Want.md",
+    "Data Analyst/Tools and Links.md",
+    "Data Analyst/API's.md",
+    "Fun/Useful links.md",
+    "Fun/AI Tools.md",
     "Fun/Stupid funny links.md",
     "Fun/Cinema.md",
     "Fun/Games.md",
@@ -184,7 +164,6 @@
     "Data Analyst/English Articles.md",
     "Data Analyst/Dataset Websites.md",
     "Data Analyst/Data Analyst or IT.md",
-    "Data Analyst/API's.md",
     "Data Analyst/Book Recommendations.md",
     "Travel/Useful links.md",
     "Travel/Kazakhstan.md",
