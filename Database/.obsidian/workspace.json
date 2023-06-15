@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/AI Tools.md"
+                "file": "Data Analyst/Tools and Links.md"
               }
             }
           }
@@ -169,11 +169,11 @@
   },
   "active": "da4451e1c6cc8282",
   "lastOpenFiles": [
-    "Fun/Stuff I Want.md",
-    "Fun/Stupid funny links.md",
     "Fun/Useful links.md",
     "Data Analyst/Tools and Links.md",
     "Fun/AI Tools.md",
+    "Fun/Stuff I Want.md",
+    "Fun/Stupid funny links.md",
     "Fun/Cinema.md",
     "Fun/Games.md",
     "Main Page.md",
