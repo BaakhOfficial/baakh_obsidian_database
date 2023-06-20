@@ -11,8 +11,12 @@
             "id": "9af1b509ec558c9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fun/AI Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fun/AI Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fun/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fun/AI Tools.md"
+              }
             }
           }
         ],
@@ -148,8 +156,9 @@
   },
   "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
-    "Fun/Stuff I Want.md",
     "Data Analyst/Tools and Links.md",
+    "Data Analyst/Articles.md",
+    "Fun/Stuff I Want.md",
     "Data Analyst/API's.md",
     "Fun/Useful links.md",
     "Fun/AI Tools.md",
@@ -178,7 +187,6 @@
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
     "About Me/Contact Info.md",
-    "Data Analyst/Articles.md",
     "Travel/Travel.md",
     "Untitled.canvas",
     "Data Analyst/Excel",

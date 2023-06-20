@@ -113,7 +113,7 @@ Specific usecases:
 - [Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings](https://fireflies.ai/)
 - https://chat.kuki.ai/
 - [New tab (uizard.com)](https://uizard.com/)
-- 
+- [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
 
 ### 💰Paid
 

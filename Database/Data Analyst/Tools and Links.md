@@ -41,6 +41,9 @@
 - [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/start)
 - [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
 
+# Processing
+- [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
+
 # Other
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [Airtable | Create apps that perfectly fit your team's needs](https://www.airtable.com/)
