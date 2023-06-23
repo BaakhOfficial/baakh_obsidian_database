@@ -2,6 +2,11 @@
 
 [[API's]]
 
+# SEO and Website Analysis
+- https://pagespeed.web.dev/
+- https://gtmetrix.com/
+- https://metrika.yandex.ru/
+
 # Statistics
 - [Sample Size Calculator (Evan’s Awesome A/B Tools) (evanmiller.org)](https://www.evanmiller.org/ab-testing/sample-size.html#!0.15;80;5;0.05;0)
 - [Distribution Calculator (shinyapps.io)](https://gallery.shinyapps.io/dist_calc/)
