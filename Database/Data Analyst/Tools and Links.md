@@ -52,3 +52,4 @@
 - [Tango: How-to guides and SOPs, in seconds - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/tango-how-to-guides-and-s/lggdbpblkekjjbobadliahffoaobaknh)
 - [Free login to any site (login2.me)](http://login2.me/) 
 - https://app.adspy.com/  (Promo - AFFTWEAKS)
+- https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD - PowerToys for Windows from Microsoft
