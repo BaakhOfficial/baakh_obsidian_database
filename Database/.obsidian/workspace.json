@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Data Analyst/English Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Data Analyst/English Articles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Data Analyst/English Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyst/Tools and Links.md"
+                "file": "Data Analyst/English Articles.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
+    "Data Analyst/Tools and Links.md",
     "Fun/AI Tools.md",
     "Fun/Useful links.md",
-    "Data Analyst/Tools and Links.md",
     "Data Analyst/Articles.md",
     "Fun/Stuff I Want.md",
     "Data Analyst/API's.md",

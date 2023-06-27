@@ -58,3 +58,4 @@
 - [Free login to any site (login2.me)](http://login2.me/) 
 - https://app.adspy.com/  (Promo - AFFTWEAKS)
 - https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD - PowerToys for Windows from Microsoft
+- https://regex101.com/
