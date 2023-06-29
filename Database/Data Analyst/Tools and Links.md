@@ -6,6 +6,7 @@
 - https://pagespeed.web.dev/
 - https://gtmetrix.com/
 - https://metrika.yandex.ru/
+- https://www.google.ru/alerts%E2%80%94
 
 # Statistics
 - [Sample Size Calculator (Evan’s Awesome A/B Tools) (evanmiller.org)](https://www.evanmiller.org/ab-testing/sample-size.html#!0.15;80;5;0.05;0)
