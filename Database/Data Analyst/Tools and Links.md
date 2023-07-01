@@ -2,6 +2,12 @@
 
 [[API's]]
 
+# SEO and Website Analysis
+- https://pagespeed.web.dev/
+- https://gtmetrix.com/
+- https://metrika.yandex.ru/
+- https://www.google.ru/alerts%E2%80%94
+
 # Statistics
 - [Sample Size Calculator (Evan’s Awesome A/B Tools) (evanmiller.org)](https://www.evanmiller.org/ab-testing/sample-size.html#!0.15;80;5;0.05;0)
 - [Distribution Calculator (shinyapps.io)](https://gallery.shinyapps.io/dist_calc/)
@@ -56,3 +62,5 @@
 - [Free login to any site (login2.me)](http://login2.me/) 
 - https://app.adspy.com/  (Promo - AFFTWEAKS)
 - [1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/) 
+- https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD - PowerToys for Windows from Microsoft
+- https://regex101.com/
