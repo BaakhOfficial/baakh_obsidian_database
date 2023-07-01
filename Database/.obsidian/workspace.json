@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/AI Tools.md",
+                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/AI Tools.md"
+                "file": "Data Analyst/Tools and Links.md"
               }
             }
           }
@@ -157,11 +157,13 @@
   "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
     "Data Analyst/Tools and Links.md",
+    "Data Analyst/Data Analyst or IT.md",
+    "Data Analyst/Book Recommendations.md",
+    "Fun/AI Tools.md",
     "Data Analyst/Articles.md",
     "Fun/Stuff I Want.md",
     "Data Analyst/API's.md",
     "Fun/Useful links.md",
-    "Fun/AI Tools.md",
     "Fun/Stupid funny links.md",
     "Fun/Cinema.md",
     "Fun/Games.md",
@@ -172,8 +174,6 @@
     "Data Analyst/Russian Articles.md",
     "Data Analyst/English Articles.md",
     "Data Analyst/Dataset Websites.md",
-    "Data Analyst/Data Analyst or IT.md",
-    "Data Analyst/Book Recommendations.md",
     "Travel/Useful links.md",
     "Travel/Kazakhstan.md",
     "About Me/CV.md",

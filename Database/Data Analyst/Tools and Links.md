@@ -23,6 +23,9 @@
 - [New explain | explain.depesz.com](https://explain.depesz.com/)
 - [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
 
+# API
+- [Postman API Platform | Sign Up for Free](https://www.postman.com/)
+
 # Randomization
 - [ANU QRNG – Quantum random numbers](http://150.203.48.55/index.php)
 - [HotBits: Genuine Random Numbers (fourmilab.ch)](https://www.fourmilab.ch/hotbits/)
@@ -52,3 +55,4 @@
 - [Tango: How-to guides and SOPs, in seconds - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/tango-how-to-guides-and-s/lggdbpblkekjjbobadliahffoaobaknh)
 - [Free login to any site (login2.me)](http://login2.me/) 
 - https://app.adspy.com/  (Promo - AFFTWEAKS)
+- [1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/) 
