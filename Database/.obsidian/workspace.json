@@ -11,8 +11,12 @@
             "id": "9af1b509ec558c9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analyst/Linux/Client Side Software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d271a5e5a2e56e2",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analyst/Linux/Client Side Software.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analyst/Linux/Client Side Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analyst/Linux/Client Side Software.md"
+              }
             }
           }
         ],
@@ -150,16 +157,18 @@
   },
   "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
-    "Data Analyst/Linux Programs.md",
-    "Data Analyst/Linux.md",
-    "Data Analyst/Dataset Websites.md",
+    "Data Analyst/Linux/Linux.md",
+    "Data Analyst/Linux/Client Side Software.md",
+    "Data Analyst/Linux/Server Side Software.md",
+    "Data Analyst/API's.md",
+    "Data Analyst/Linux",
     "Data Analyst/Data Analyst or IT.md",
+    "Data Analyst/Dataset Websites.md",
     "Data Analyst/Tools and Links.md",
     "Data Analyst/Book Recommendations.md",
     "Fun/AI Tools.md",
     "Data Analyst/Articles.md",
     "Fun/Stuff I Want.md",
-    "Data Analyst/API's.md",
     "Fun/Useful links.md",
     "Fun/Stupid funny links.md",
     "Fun/Cinema.md",
@@ -176,8 +185,6 @@
     "Health/Face Skin.md",
     "Fun/Fun.md",
     "_attachments/Pasted image 20230407001825.png",
-    "About Me/Bio.md",
-    "About Me/About Me.md",
     "_attachments/header page.jpg",
     "_attachments/Photo.png",
     "_attachments/Picture.png",
@@ -193,7 +200,6 @@
     "Travel",
     "Health",
     "Main Pages",
-    "About Me",
     "Untitled 1.canvas"
   ]
 }
