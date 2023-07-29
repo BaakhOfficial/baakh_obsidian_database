@@ -11,12 +11,8 @@
             "id": "9af1b509ec558c9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Analyst/Tools and Links.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d271a5e5a2e56e2",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,17 +127,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Analyst/Tools and Links.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +150,11 @@
   },
   "active": "9af1b509ec558c9c",
   "lastOpenFiles": [
-    "Data Analyst/Tools and Links.md",
+    "Data Analyst/Linux Programs.md",
+    "Data Analyst/Linux.md",
+    "Data Analyst/Dataset Websites.md",
     "Data Analyst/Data Analyst or IT.md",
+    "Data Analyst/Tools and Links.md",
     "Data Analyst/Book Recommendations.md",
     "Fun/AI Tools.md",
     "Data Analyst/Articles.md",
@@ -173,7 +170,6 @@
     "Content Creation",
     "Data Analyst/Russian Articles.md",
     "Data Analyst/English Articles.md",
-    "Data Analyst/Dataset Websites.md",
     "Travel/Useful links.md",
     "Travel/Kazakhstan.md",
     "About Me/CV.md",
@@ -186,8 +182,6 @@
     "_attachments/Photo.png",
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
-    "About Me/Contact Info.md",
-    "Travel/Travel.md",
     "Untitled.canvas",
     "Data Analyst/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
