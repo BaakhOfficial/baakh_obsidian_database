@@ -1,6 +1,14 @@
 >[!important] I am using Ubuntu, so all installation process will be about it.
 
 ## Office
+**Gnome extentions**
+```bash
+sudo apt install gnome-shell-extensions
+```
+**Gnome tweaks**
+```bash
+sudo apt install gnome-tweaks
+```
 **Clipboard extension for Gnome.**
 Awesome and comfortable **clipboard**. Easy to set up and work with:
 [Link to the tutorial](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/blob/master/README.rst)
@@ -16,4 +24,4 @@ sudo snap install bitwarden
 ```
 **1.1.1.1**.
 Makes your internet goes fastaaaa. It just sets up without installation
-[Link to the Tutorial](https://developers.cloudflare.com/1.1.1.1/setup/linux/)
+- [Link to the Tutorial](https://developers.cloudflare.com/1.1.1.1/setup/linux/)
