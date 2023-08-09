@@ -25,3 +25,10 @@ sudo snap install bitwarden
 **1.1.1.1**.
 Makes your internet goes fastaaaa. It just sets up without installation
 - [Link to the Tutorial](https://developers.cloudflare.com/1.1.1.1/setup/linux/)
+
+## Problem solving
+**Closed lid isn't suspend the system**
+- [Link to the tutorial](https://itsfoss.com/ubuntu-close-lid-suspend/#:~:text=You%20must%20make%20sure%20that,Ubuntu%20by%20closing%20the%20lid.) I used console way. **BUT** you don't have to use gksu to open text document. You can use nano, it will be easier:
+```bash
+sudo nano /etc/systemd/logind.conf
+```
