@@ -2,6 +2,8 @@
 
 [[API's]]
 
+# Databases
+- https://clickhouse.com/
 # SEO and Website Analysis
 - https://pagespeed.web.dev/
 - https://gtmetrix.com/
@@ -54,6 +56,7 @@
 - [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
 
 # Other
+- https://benchmark.clickhouse.com/ - DBMS benchmarks
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
 - [Airtable | Create apps that perfectly fit your team's needs](https://www.airtable.com/)
 - [Framer — Design and ship your dream site. Zero code, maximum speed.](https://www.framer.com/)

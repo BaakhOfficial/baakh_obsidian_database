@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af91dfcb4c323909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analyst/Russian Articles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Data Analyst/Russian Articles.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Data Analyst/Russian Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analyst/Tools and Links.md"
+                "file": "Data Analyst/Russian Articles.md"
               }
             }
           }
@@ -154,15 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9af1b509ec558c9c",
+  "active": "af91dfcb4c323909",
   "lastOpenFiles": [
     "Data Analyst/Tools and Links.md",
-    "Data Analyst/Data Analyst or IT.md",
-    "Data Analyst/Book Recommendations.md",
-    "Fun/AI Tools.md",
-    "Data Analyst/Articles.md",
-    "Fun/Stuff I Want.md",
     "Data Analyst/API's.md",
+    "Data Analyst/Articles.md",
+    "Data Analyst/Book Recommendations.md",
+    "Data Analyst/Data Analyst or IT.md",
+    "Fun/AI Tools.md",
+    "Fun/Stuff I Want.md",
     "Fun/Useful links.md",
     "Fun/Stupid funny links.md",
     "Fun/Cinema.md",
