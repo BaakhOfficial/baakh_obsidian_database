@@ -13,3 +13,4 @@
 - [Canarytokens](https://canarytokens.org/generate) - honeypot tokens generator
 - [All Posts • Instagram](https://www.instagram.com/p/Cp2mLiDjNki/) - how to find almost any book for free
 - [FaceCheck - Reverse Image Search - Face Recognition Search Engine](https://facecheck.id/)
+- https://www.lorenzostanco.com/lab/steam/ - export of steam data
