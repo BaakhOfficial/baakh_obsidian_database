@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me/About Me.md",
+                "file": "Front Pages/About Me.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Page.md",
+                "file": "About Me/Contact Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Page.md",
+                "file": "About Me/Contact Info.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Page.md",
+                "file": "About Me/Contact Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Page.md"
+                "file": "About Me/Contact Info.md"
               }
             }
           },
@@ -180,34 +180,36 @@
   },
   "active": "45b943e1b67f9289",
   "lastOpenFiles": [
-    "www.baakhofficial.com.md",
+    "About Me/CV.md",
+    "About Me/Contact Info.md",
     "Main Page.md",
+    "Front Pages/About Me.md",
+    "Fun/Useful links.md",
+    "Fun/Stupid funny links.md",
+    "Fun/Stuff I Want.md",
+    "Fun/Games.md",
+    "Fun/Cinema.md",
+    "Fun/AI Tools.md",
+    "Bio.md",
+    "Front Pages/Health Work.md",
+    "Front Pages/Phylosophy.md",
+    "Front Pages/Data Analyst or IT.md",
+    "Front Pages",
+    "Content Creation/Content creation.md",
+    "Content Creation/Tools.md",
+    "About Me/Contents",
+    "www.baakhofficial.com.md",
     "_attachments/crane.png",
     "About Me/Bio.md",
-    "About Me/About Me.md",
-    "Data Analyst/Tools and Links.md",
-    "Fun/Useful links.md",
-    "Fun/Fun.md",
-    "Health/Health Work.md",
+    "Data Analyst or IT/Tools and Links.md",
+    "Front Pages/Fun.md",
     "Health/Physical Health.md",
     "Health/Food.md",
     "Health/Training.md",
     "Health/Face Skin.md",
-    "Fun/Cinema.md",
-    "Fun/Games.md",
-    "Fun/Stupid funny links.md",
-    "Data Analyst/Russian Articles.md",
-    "Data Analyst/Linux/Server Side Software.md",
-    "Data Analyst/Linux/Linux.md",
-    "Data Analyst/Linux/Client Side Software.md",
-    "Data Analyst/Linux",
-    "Data Analyst/API's.md",
-    "Data Analyst/Articles.md",
-    "Data Analyst/Book Recommendations.md",
-    "Data Analyst/Data Analyst or IT.md",
-    "Fun/AI Tools.md",
-    "Fun/Stuff I Want.md",
-    "Content Creation/Tools.md",
+    "Data Analyst or IT/Russian Articles.md",
+    "Data Analyst or IT/Linux/Server Side Software.md",
+    "Data Analyst or IT/Linux",
     "Content Creation",
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
@@ -215,7 +217,7 @@
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
     "Untitled.canvas",
-    "Data Analyst/Excel",
+    "Data Analyst or IT/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
     "_attachments",
@@ -223,8 +225,6 @@
     "Fun",
     "Phylosophy",
     "Travel",
-    "Health",
-    "Main Pages",
     "Untitled 1.canvas"
   ]
 }

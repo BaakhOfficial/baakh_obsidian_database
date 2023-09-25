@@ -3,10 +3,6 @@
 
 >*Congratulations! You are on the main page of my personal analyst database. My name is [Nikolay Baakh](https://www.baakhofficial.com), I am a Data Analyst. But here you can find much more than just Data Analyst stuff.*
 
-
-
-**Some links lead to Russian books or websites. They are marked with #Russian  hashtag**
-
 If I will decide that one page of that database is very cool - I will duplicate it in my [blog](https://baakhofficial.com/blog/) 
 
 > [!warning]
@@ -20,7 +16,6 @@ I can make a lot of links, but it will turn everything into mess. I want it to b
 
 - [[About Me]]
 - [[Data Analyst or IT]]
-- [[Phylosophy]]
 - [[Health Work]]
 - [[Travel]]
 * [[Fun]]
