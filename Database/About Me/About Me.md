@@ -13,6 +13,5 @@ Of course check my socials and ask me anything. You can find all that in my [[Co
 
 ## Links
 
-[[Bio]]
 [[CV]]
 [[Contact Info]]
