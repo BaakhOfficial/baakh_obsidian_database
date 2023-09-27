@@ -86,9 +86,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "12776d39ff264469",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analyst/Tools and Links.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analyst/Tools and Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +211,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analyst/Tools and Links.md"
+              }
+            }
+          },
+          {
+            "id": "17915f7302bd9ae7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,8 +242,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60718c30634a88eb",
+  "active": "12776d39ff264469",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Health/Food.md",
     "Health/Physical Health.md",
     "Health/Training.md",
@@ -248,13 +272,11 @@
     "Content Creation/Content creation.md",
     "Content Creation",
     "Data Analyst/English Articles.md",
-    "Data Analyst/Dataset Websites.md",
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
     "_attachments/Photo.png",
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
-    "Untitled.canvas",
     "Data Analyst/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
