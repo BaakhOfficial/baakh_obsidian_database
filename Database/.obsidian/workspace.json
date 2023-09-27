@@ -4,32 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8ff45d1d4de4a7",
+        "id": "63d81817c927efd4",
         "type": "tabs",
         "children": [
           {
-            "id": "9af1b509ec558c9c",
+            "id": "461775d120e0478b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analyst/Tools and Links.md",
+                "file": "Front Pages/About Me.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af91dfcb4c323909",
+            "id": "45b943e1b67f9289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Useful links.md",
+                "file": "About Me/Contact Info.md",
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
           },
           {
             "id": "07010c021c2913ad",
@@ -99,6 +100,11 @@
           }
         ],
         "currentTab": 7
+=======
+          }
+        ],
+        "currentTab": 1
+>>>>>>> refs/remotes/origin/main
       }
     ],
     "direction": "vertical"
@@ -127,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Russian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +178,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Data Analyst/Tools and Links.md",
+=======
+                "file": "About Me/Contact Info.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +199,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Data Analyst/Tools and Links.md",
+=======
+                "file": "About Me/Contact Info.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,12 +226,20 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Data Analyst/Tools and Links.md"
+=======
+                "file": "About Me/Contact Info.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "17915f7302bd9ae7",
+=======
+            "id": "925bbef08ec781b6",
+>>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -239,9 +261,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
+<<<<<<< HEAD
   "active": "12776d39ff264469",
   "lastOpenFiles": [
     "Untitled.canvas",
@@ -253,31 +277,56 @@
     "Fun/Cinema.md",
     "Fun/Fun.md",
     "Fun/Games.md",
+=======
+  "active": "45b943e1b67f9289",
+  "lastOpenFiles": [
+    "About Me/CV.md",
+    "About Me/Contact Info.md",
+    "Main Page.md",
+    "Front Pages/About Me.md",
+>>>>>>> refs/remotes/origin/main
     "Fun/Useful links.md",
     "Fun/Stupid funny links.md",
-    "Data Analyst/Tools and Links.md",
-    "Data Analyst/Russian Articles.md",
-    "Data Analyst/Linux/Server Side Software.md",
-    "Data Analyst/Linux/Linux.md",
-    "Data Analyst/Linux/Client Side Software.md",
-    "Data Analyst/Linux",
-    "Data Analyst/API's.md",
-    "Data Analyst/Articles.md",
-    "Data Analyst/Book Recommendations.md",
-    "Data Analyst/Data Analyst or IT.md",
-    "Fun/AI Tools.md",
     "Fun/Stuff I Want.md",
-    "Main Page.md",
-    "Content Creation/Tools.md",
+    "Fun/Games.md",
+    "Fun/Cinema.md",
+    "Fun/AI Tools.md",
+    "Bio.md",
+    "Front Pages/Health Work.md",
+    "Front Pages/Phylosophy.md",
+    "Front Pages/Data Analyst or IT.md",
+    "Front Pages",
     "Content Creation/Content creation.md",
+    "Content Creation/Tools.md",
+    "About Me/Contents",
+    "www.baakhofficial.com.md",
+    "_attachments/crane.png",
+    "About Me/Bio.md",
+    "Data Analyst or IT/Tools and Links.md",
+    "Front Pages/Fun.md",
+    "Health/Physical Health.md",
+    "Health/Food.md",
+    "Health/Training.md",
+    "Health/Face Skin.md",
+    "Data Analyst or IT/Russian Articles.md",
+    "Data Analyst or IT/Linux/Server Side Software.md",
+    "Data Analyst or IT/Linux",
     "Content Creation",
+<<<<<<< HEAD
     "Data Analyst/English Articles.md",
+=======
+>>>>>>> refs/remotes/origin/main
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
     "_attachments/Photo.png",
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
+<<<<<<< HEAD
     "Data Analyst/Excel",
+=======
+    "Untitled.canvas",
+    "Data Analyst or IT/Excel",
+>>>>>>> refs/remotes/origin/main
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
     "_attachments",
@@ -285,8 +334,6 @@
     "Fun",
     "Phylosophy",
     "Travel",
-    "Health",
-    "Main Pages",
     "Untitled 1.canvas"
   ]
 }

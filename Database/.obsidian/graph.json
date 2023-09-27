@@ -32,7 +32,7 @@
       "query": "path:Health",
       "color": {
         "a": 1,
-        "rgb": 10747674
+        "rgb": 5708543
       }
     },
     {
@@ -74,6 +74,11 @@
   "repelStrength": 14.1145833333333,
   "linkStrength": 1,
   "linkDistance": 173,
+<<<<<<< HEAD
   "scale": 0.781805472912743,
   "close": true
+=======
+  "scale": 0.36917739817107564,
+  "close": false
+>>>>>>> refs/remotes/origin/main
 }

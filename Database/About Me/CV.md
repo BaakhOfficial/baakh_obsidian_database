@@ -1,38 +1,53 @@
-## Employee
  
 **Nikolai Baakh** <br>**Data Analyst**
  
 ![[Photo.png]]
  
-Mail. baakh@protonmail.ch  
-**GitHub:** [ Nikolai Baakh | github.com ](https://github.com/BaakhOfficial) 
+**Mail** contact@baakhofficial.com
+**Website**: [baakhofficial.com](https://baakhofficial.com)
+**GitHub:** [ Nikolai Baakh | Github ](https://github.com/BaakhOfficial) 
 **LinkedIn:** [Nikolai Baakh | LinkedIn ](https://www.linkedin.com/in/baakhofficial/) 
 **Twitter:**[Nikolai Baakh | Twitter](https://twitter.com/BaakhOfficial) 
- 
+***
+
 ## **Key competencies**
 
-- Database Management
-- PostgreSQL (CTE, views, window functions, subqueries, joins)
-- Python Data Analysis (Pandas, NumPy, MPL, Statistics, Pyspark, sklearn)
-- Google Looker Studio, Tableau, PowerBI
-- Excel (pivot, vlookup, analysis toolpak)
-- Data Preprocessing
+- Database Management (AirFlow)
+- SQL (PostgreSQL, Clickouse, MySQL)
+- Python Data Analysis, Data Preprocessing (Pandas, NumPy, MPL, Statistics, Pyspark, sklearn)
+- Tableau, Holistics, Google Looker Studio, PowerBI
+- A/B Testing and Web Analytics (GA4, Statistical Analysis)
+- Advanced Excel, Google Sheets
 - Feature Engineering
-- Basic Machine Learning  
+- Basic Machine Learning
 
+***
 ## **Experience**
 
-### **2022\.10 – Present**
+### **2023\.08 – Present**
 
-**Personal projects with Netology as a Data Analyst**<br> [Website ](https://netology.ru/programs/data_analyst_ultimate)
+**Data Analysis Team Lead**
+**Vostok Digital**
 
-- Business Data Analysis report
-- Data collection and analysis through Google Sheets and Forms
-- Statistical analysis of taxi rides
-- PostgreSQL analysis of airline data
-- PySpark analysis of Big Data owned by a cinema chain.  
-- Data visualization in Tableau
-- Complex suicide rate analysis with an open source Datasets  
+> [!tip]- NDA
+> This job have an NDA on some information about it. If you have any questions - feel free to [[Contact Info | contact me]]
+
+- will be updated later
+
+### 2023.04 – 2023.08
+
+**Data Analyst**
+**Ocean Digital**
+
+> [!tip]- NDA
+> This job have an NDA on some information about it. If you have any questions - feel free to [[Contact Info | contact me]]
+
+- Designed and implemented a custom data extraction process, integrating with third-party APIs, and developing data cleaning and transformation pipelines
+- Built interactive dashboards using Looker for key stakeholders in the business, enabling quick access to critical metrics and insights
+- Developed custom visualizations to present complex data in a clear and concise way
+- Developed and implemented an automated data pipeline to collect, store, and process large volumes of data from multiple sources
+- Maintained and expanded databases with more than 2000 manual records per month, ensuring data quality and consistency
+- Analyzed marketing campaigns and provided insights and recommendations to optimize campaigns
 
 ### **2022\.10 – 2023.03**
 
@@ -49,43 +64,47 @@ Mail. baakh@protonmail.ch
 - Participated in Dashboard creation for a CRM system
 - Statistically analyzed marketing data for AB testing
 - Created a pipeline for the data preprocessing  
- 
-### 2022\.01 – 2022.10  
- 
-**Sales Manager**
-**LLC "PRO DESIGN", St Petersburg, Russia**<br>[**Website** ](https://prod.ru/) 
-  
-- Built relationships with customers and generated revenue for a company
-- Solved problems with clients after their purchases 
- 
-### **2020\.01 – 2022.01** 
- 
-**Marketing Specialist** 
-**Self-Employed**  
 
-- Developed and executed social media strategies
-- Did split tests and analyzed data to measure the performance of the campaigns
-- Found trends and patterns for each client individually to increase their CPC and overall revenue
-  
+> [!abstract]- Previous Experience
+> ### 2022\.01 – 2022.10
+ >
+>**Sales Manager**
+>**LLC "PRO DESIGN", St Petersburg, Russia**<br>[**Website** ](https://prod.ru/) 
+ > 
+>- Built relationships with customers and generated revenue for a company
+>- Solved problems with clients after their purchases 
+> 
+>### **2020\.01 – 2022.01** 
+> 
+>**Marketing Specialist** 
+**Self-Employed**  
+>
+>- Developed and executed social media strategies
+>- Did split tests and analyzed data to measure the performance of the campaigns
+>- Found trends and patterns for each client individually to increase their CPC and overall revenue
+>  
+
+***
 ## **Education**
   
 ### **2014-2017 Tomsk Polytechnic University**
 [**Website** ](https://www.abiturient.tpu.ru/en/direction/en120304+)  
-
-«Medical Equipment Engineer», Biotechnical Systems and Technologies, Unfinished Bachelor's degree 
+"Medical Equipment Engineer", Biotechnical Systems and Technologies, Unfinished Bachelor's degree 
 
 ## **Courses:** 
  
 ### **2022 - 2023 Netology** 
-[Website ](https://netology.ru/programs/data_analyst_ultimate) 
- 
-Data Analyst from Zero to Middle 
- 
+**[Website ](https://netology.ru/programs/data_analyst_ultimate)** 
+"Data Analyst from Zero to Middle"
+
+***
 ## **Additional Information:**
 
 - English Language C1 — Advanced 
 - Russian Language – Native Speaker 
 - Ready for relocation in case of long-term cooperation 
+
+***
   
 ## **About me**
  
