@@ -1,124 +1,48 @@
 {
   "main": {
-    "id": "267eda1a1358739c",
+    "id": "889783a6d9114a84",
     "type": "split",
     "children": [
       {
-        "id": "63d81817c927efd4",
+        "id": "1a0660f87cb5cd8d",
         "type": "tabs",
         "children": [
           {
-            "id": "461775d120e0478b",
+            "id": "78dea7ddf9448704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front Pages/About Me.md",
+                "file": "IT/Linux Software.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45b943e1b67f9289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Me/Contact Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-          },
-          {
-            "id": "07010c021c2913ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fun/Fun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "383b81093483af4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health/Health Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edab2c555a501b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health/Physical Health.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "753aa5a585987b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health/Physical Health.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60718c30634a88eb",
+            "id": "86fb48e06fedbaa6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "12776d39ff264469",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          }
-        ],
-        "currentTab": 7
-=======
           }
         ],
         "currentTab": 1
->>>>>>> refs/remotes/origin/main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9c467591fbcec410",
+    "id": "13b46935701954ee",
     "type": "split",
     "children": [
       {
-        "id": "4f4d8c6a8e902272",
+        "id": "25d8a2946339488e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9af879aecdc5232",
+            "id": "5ca7092d711dc3ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -128,7 +52,7 @@
             }
           },
           {
-            "id": "8fa33216e2e703e9",
+            "id": "b6cb8eb60b39664d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -143,15 +67,7 @@
             }
           },
           {
-            "id": "3268aeadcb641800",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "92211ec37b355229",
+            "id": "6254e41ecbe185ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -165,26 +81,21 @@
     "width": 300
   },
   "right": {
-    "id": "5d271a5e5a2e56e2",
+    "id": "61a486080957683a",
     "type": "split",
     "children": [
       {
-        "id": "5d2b00cc78070640",
+        "id": "e3f1f7234f34f1b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee8f16471242a49",
+            "id": "9d3c50051ccde535",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Data Analyst/Tools and Links.md",
-=======
-                "file": "About Me/Contact Info.md",
->>>>>>> refs/remotes/origin/main
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -194,23 +105,18 @@
             }
           },
           {
-            "id": "97e05c33fc5aec49",
+            "id": "32ffe9082c755668",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Data Analyst/Tools and Links.md",
-=======
-                "file": "About Me/Contact Info.md",
->>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a50e5d7620a2e3e2",
+            "id": "7e3e69a2c4a290ad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,25 +127,7 @@
             }
           },
           {
-            "id": "36d317e646233069",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Data Analyst/Tools and Links.md"
-=======
-                "file": "About Me/Contact Info.md"
->>>>>>> refs/remotes/origin/main
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "17915f7302bd9ae7",
-=======
-            "id": "925bbef08ec781b6",
->>>>>>> refs/remotes/origin/main
+            "id": "8652c80b06be3284",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -247,12 +135,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "70200184859eed97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,75 +162,28 @@
       "publish:Publish changes...": false
     }
   },
-<<<<<<< HEAD
-  "active": "12776d39ff264469",
+  "active": "86fb48e06fedbaa6",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Health/Food.md",
-    "Health/Physical Health.md",
-    "Health/Training.md",
-    "Health/Health Work.md",
-    "Health/Face Skin.md",
-    "Fun/Cinema.md",
-    "Fun/Fun.md",
-    "Fun/Games.md",
-=======
-  "active": "45b943e1b67f9289",
-  "lastOpenFiles": [
+    "Main Page.md",
+    "Front Pages/Content creation.md",
+    "DB Structure.canvas",
+    "Content Creation/Tools.md",
+    "IT/Tools and Links.md",
+    "IT/Server Software.md",
+    "IT/Linux Software.md",
+    "IT/Dataset Websites.md",
+    "IT/Book Recommendations.md",
+    "Front Pages/Articles.md",
+    "IT/Articles",
+    "Front Pages/IT.md",
+    "IT/Servers",
+    "Front Pages/Linux.md",
+    "Front Pages/Excel.md",
+    "Data Analyst or IT/Excel/How To.md",
     "About Me/CV.md",
     "About Me/Contact Info.md",
-    "Main Page.md",
-    "Front Pages/About Me.md",
->>>>>>> refs/remotes/origin/main
-    "Fun/Useful links.md",
-    "Fun/Stupid funny links.md",
-    "Fun/Stuff I Want.md",
-    "Fun/Games.md",
-    "Fun/Cinema.md",
-    "Fun/AI Tools.md",
-    "Bio.md",
-    "Front Pages/Health Work.md",
-    "Front Pages/Phylosophy.md",
-    "Front Pages/Data Analyst or IT.md",
-    "Front Pages",
-    "Content Creation/Content creation.md",
-    "Content Creation/Tools.md",
-    "About Me/Contents",
-    "www.baakhofficial.com.md",
-    "_attachments/crane.png",
-    "About Me/Bio.md",
-    "Data Analyst or IT/Tools and Links.md",
-    "Front Pages/Fun.md",
-    "Health/Physical Health.md",
-    "Health/Food.md",
-    "Health/Training.md",
-    "Health/Face Skin.md",
-    "Data Analyst or IT/Russian Articles.md",
-    "Data Analyst or IT/Linux/Server Side Software.md",
-    "Data Analyst or IT/Linux",
-    "Content Creation",
-<<<<<<< HEAD
-    "Data Analyst/English Articles.md",
-=======
->>>>>>> refs/remotes/origin/main
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
-    "_attachments/Photo.png",
-    "_attachments/Picture.png",
-    "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
-<<<<<<< HEAD
-    "Data Analyst/Excel",
-=======
-    "Untitled.canvas",
-    "Data Analyst or IT/Excel",
->>>>>>> refs/remotes/origin/main
-    "Travel/_attachments/Pasted image 20230225121712.png",
-    "Travel/_attachments",
-    "_attachments",
-    "header page.jpg",
-    "Fun",
-    "Phylosophy",
-    "Travel",
-    "Untitled 1.canvas"
+    "_attachments/crane.png"
   ]
 }

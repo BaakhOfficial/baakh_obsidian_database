@@ -5,80 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Data Analyst\"",
-      "color": {
-        "a": 1,
-        "rgb": 3694847
-      }
-    },
-    {
-      "query": "file:Main Page",
-      "color": {
-        "a": 1,
-        "rgb": 2883328
-      }
-    },
-    {
-      "query": "path:\"About Me\"",
-      "color": {
-        "a": 1,
-        "rgb": 9245936
-      }
-    },
-    {
-      "query": "path:Health",
-      "color": {
-        "a": 1,
-        "rgb": 5708543
-      }
-    },
-    {
-      "query": "path:Travel",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Phylosophy",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:Fun",
-      "color": {
-        "a": 1,
-        "rgb": 16746496
-      }
-    },
-    {
-      "query": "path:\"Content Creation\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711854
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2,
-  "nodeSizeMultiplier": 1.26119791666667,
-  "lineSizeMultiplier": 1.08255208333333,
-  "collapse-forces": false,
-  "centerStrength": 0.372395833333333,
-  "repelStrength": 14.1145833333333,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 173,
-<<<<<<< HEAD
-  "scale": 0.781805472912743,
-  "close": true
-=======
-  "scale": 0.36917739817107564,
+  "linkDistance": 250,
+  "scale": 0.2497578957574567,
   "close": false
->>>>>>> refs/remotes/origin/main
 }
