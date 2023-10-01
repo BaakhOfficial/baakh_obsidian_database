@@ -1,13 +1,16 @@
-- [Get started using OneDrive API - OneDrive dev center | Microsoft Learn](https://learn.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/?view=odsp-graph-online)
-- [Dropbox - Developers](https://www.dropbox.com/developers/documentation)
-- [API – VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002100149-API)
-- [Genderize.io | Determine the gender of a name](https://genderize.io/)
-- [API - Open Food Facts wiki](https://wiki.openfoodfacts.org/API)
-- [Using Slack APIs | Slack](https://api.slack.com/apis)
-- [PayPal Developer](https://developer.paypal.com/api/rest/)
-- [The Trello REST API (atlassian.com)](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
-- [NASA Open APIs](https://api.nasa.gov/)
-- [GitHub REST API documentation - GitHub Docs](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+
+Name | Data
+-- | --
+[OneDrive](https://learn.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/?view=odsp-graph-online) | 
+[Dropbox](https://www.dropbox.com/developers/documentation) |
+[VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002100149-API) |
+[Genderize.io](https://genderize.io/)| 
+[Open Food Facts wiki](https://wiki.openfoodfacts.org/API)|
+[Slack](https://api.slack.com/apis)|
+[PayPal](https://developer.paypal.com/api/rest/) |
+[Trello](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/) |
+[NASA](https://api.nasa.gov/)|
+[GitHub](https://docs.github.com/en/rest?apiVersion=2022-11-28) |
 - [Stripe API reference – curl](https://stripe.com/docs/api)
 - [reddit.com: api documentation](https://www.reddit.com/dev/api/)
 - [Shopify API reference docs](https://shopify.dev/docs/api)
@@ -21,3 +24,4 @@
 - [Home | Spotify for Developers](https://developer.spotify.com/)
 - [Trefle | The plants API](http://trefle.io/)
 - [REST Countries](https://restcountries.com/)
+- [Wildberries](https://openapi.wildberries.ru)

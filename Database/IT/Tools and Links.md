@@ -2,34 +2,19 @@
 
 [[API's]]
 
-# Databases
-- https://clickhouse.com/
+
 # SEO and Website Analysis
 - https://pagespeed.web.dev/
-- https://gtmetrix.com/
 - https://metrika.yandex.ru/
 - https://www.google.ru/alerts%E2%80%94
 
-# Statistics
-- [Sample Size Calculator (Evan’s Awesome A/B Tools) (evanmiller.org)](https://www.evanmiller.org/ab-testing/sample-size.html#!0.15;80;5;0.05;0)
-- [Distribution Calculator (shinyapps.io)](https://gallery.shinyapps.io/dist_calc/)
 
 # Presentation
 - [Canvanizer](https://canvanizer.com/)
 - [Tome - The AI-powered storytelling format](https://beta.tome.app/)
-- [Figma: the collaborative interface design tool.](https://www.figma.com/)
-- [The Visual Collaboration Platform for Every Team | Miro](https://miro.com/)
-- [Untitled Diagram - diagrams.net](https://app.diagrams.net/)
 
 # Visualisation and Dashboards
-- [Qlik | Analytics & Data Integration Platform](https://www.qlik.com/us/)
-- [Business Intelligence and Analytics Software (tableau.com)](https://www.tableau.com/)
-- [Looker Studio (google.com)](https://lookerstudio.google.com/u/0/navigation/reporting)
-- [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
 
-# PostgreSQL 
-- [New explain | explain.depesz.com](https://explain.depesz.com/)
-- [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
 
 # API
 - [Postman API Platform | Sign Up for Free](https://www.postman.com/)
@@ -39,9 +24,6 @@
 - [HotBits: Genuine Random Numbers (fourmilab.ch)](https://www.fourmilab.ch/hotbits/)
 - [RANDOM.ORG - True Random Number Service](https://www.random.org/)
 - [Quantum Random Bit Generator Service (irb.hr)](http://random.irb.hr/)
-
-# A/B testing
-- [Optimize (google.com)](https://optimize.google.com/)
 
 # CodeGames
 - [PostgreSQL Exercises (pgexercises.com)](https://pgexercises.com/)
@@ -67,3 +49,4 @@
 - [1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/) 
 - https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD - PowerToys for Windows from Microsoft
 - https://regex101.com/
+- https://play.google.com/books

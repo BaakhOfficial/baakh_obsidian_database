@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Linux Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Linux Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Linux Software.md"
+              }
             }
           }
         ]
@@ -164,24 +168,36 @@
   },
   "active": "86fb48e06fedbaa6",
   "lastOpenFiles": [
+    "Front Pages/Data Analysis.md",
+    "Front Pages/IT.md",
+    "IT/Data Analysis/Dataset Websites.md",
+    "Front Pages/Articles.md",
+    "IT/Data Analysis/Data Analyst Tools.md",
+    "Front Pages/Health Work.md",
+    "IT/Server, Web, Cloud Tools.md",
+    "IT/Linux Software.md",
+    "Front Pages/Linux.md",
+    "IT/API's.md",
+    "Front Pages/About Me.md",
+    "Health/Food.md",
+    "Health/Face Skin.md",
+    "Fun/Useful links.md",
+    "Fun/AI Tools.md",
+    "IT/Book Recommendations.md",
+    "IT/Tools and Links.md",
+    "Travel/Useful links.md",
+    "IT/Articles/Russian Articles.md",
+    "IT/Data Analysis",
+    "IT/Articles/English Articles.md",
+    "Content Creation/Tools.md",
     "Main Page.md",
     "Front Pages/Content creation.md",
     "DB Structure.canvas",
-    "Content Creation/Tools.md",
-    "IT/Tools and Links.md",
-    "IT/Server Software.md",
-    "IT/Linux Software.md",
-    "IT/Dataset Websites.md",
-    "IT/Book Recommendations.md",
-    "Front Pages/Articles.md",
     "IT/Articles",
-    "Front Pages/IT.md",
     "IT/Servers",
-    "Front Pages/Linux.md",
     "Front Pages/Excel.md",
     "Data Analyst or IT/Excel/How To.md",
     "About Me/CV.md",
-    "About Me/Contact Info.md",
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
     "_attachments/crane.png"

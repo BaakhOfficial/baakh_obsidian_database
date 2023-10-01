@@ -1,1 +1,0 @@
-- **Nextcloud**. Awesome free open-source tool for your productivity. You better look into the installation manual. It's easy, but it has requirements for your server. [Nextcloud script for your own Server](https://docs.hanssonit.se/s/bj0vl1ihv0jgrmfm08j0/build-your-own/d/bj0vl4ahv0jgrmfm0950/nextcloud-vm)

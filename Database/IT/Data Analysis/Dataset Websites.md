@@ -1,12 +1,16 @@
-[Dataset Search (google.com)](https://datasetsearch.research.google.com/)
+Name | What is it | What you can find
+-- | -- | --
+[Dataset Search](https://datasetsearch.research.google.com/) | Search by datasets from Google | Almost everything
+[Росстат](https://rosstat.gov.ru/opendata/) | #Russian statistics government statistics source| Well... A lot of things but it is not very reliable
+[Портал открытых данных Правительства Москвы](https://data.mos.ru/) | #Russian statistics of Moscow City | Same as any other Russian government-affilated source of data
+
 
 [World Bank Open Data | Data](https://data.worldbank.org/)
 
-[Росстат — Открытые данные (rosstat.gov.ru)](https://rosstat.gov.ru/opendata/)
 
 [data.gov.ru](https://data.gov.ru/)
 
-[Портал открытых данных Правительства Москвы (mos.ru)](https://data.mos.ru/)
+
 
 
 
