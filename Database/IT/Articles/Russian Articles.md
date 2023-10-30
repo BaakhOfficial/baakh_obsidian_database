@@ -19,3 +19,4 @@
 - [Алгоритмы составления сопроводительного письма (google.com)](https://docs.google.com/document/u/0/d/1hvRq_i36ZzMo5H8N0grKxr6gxKR5Z5RIaz1Ypn_T6co/mobilebasic)
 - https://habr.com/ru/articles/322724/ - Clickhouse объяснение
 - [XTLS-Reality](https://habr.com/ru/articles/731608/) Как сделать сервер на основе самого крутого VPN протокола 
+- https://habr.com/ru/articles/735536/ - XTLS-Reality с крутым интерфейсом

@@ -23,12 +23,28 @@
             "id": "86fb48e06fedbaa6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fun/Useful links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b283b7d281b64eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fun/Stupid funny links.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux Software.md",
+                "file": "Fun/Stupid funny links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux Software.md",
+                "file": "Fun/Stupid funny links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux Software.md"
+                "file": "Fun/Stupid funny links.md"
               }
             }
           }
@@ -166,8 +182,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "86fb48e06fedbaa6",
+  "active": "b283b7d281b64eea",
   "lastOpenFiles": [
+    "Fun/Useful links.md",
+    "IT/Articles/English Articles.md",
+    "IT/Articles/Russian Articles.md",
+    "IT/Tools and Links.md",
     "Front Pages/Data Analysis.md",
     "Front Pages/IT.md",
     "IT/Data Analysis/Dataset Websites.md",
@@ -181,14 +201,10 @@
     "Front Pages/About Me.md",
     "Health/Food.md",
     "Health/Face Skin.md",
-    "Fun/Useful links.md",
     "Fun/AI Tools.md",
     "IT/Book Recommendations.md",
-    "IT/Tools and Links.md",
     "Travel/Useful links.md",
-    "IT/Articles/Russian Articles.md",
     "IT/Data Analysis",
-    "IT/Articles/English Articles.md",
     "Content Creation/Tools.md",
     "Main Page.md",
     "Front Pages/Content creation.md",
