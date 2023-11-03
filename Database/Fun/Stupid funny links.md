@@ -1,1 +1,2 @@
-[Spurious Correlations (tylervigen.com)](https://tylervigen.com/spurious-correlations)
+- [Spurious Correlations (tylervigen.com)](https://tylervigen.com/spurious-correlations)
+- https://receiptify.herokuapp.com/ - receipts for your spotify

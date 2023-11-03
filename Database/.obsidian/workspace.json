@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Stupid funny links.md",
+                "file": "Fun/Useful links.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/Stupid funny links.md",
+                "file": "Fun/Useful links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/Stupid funny links.md",
+                "file": "Fun/Useful links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/Stupid funny links.md"
+                "file": "Fun/Useful links.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "b283b7d281b64eea",
   "lastOpenFiles": [
+    "Fun/Stupid funny links.md",
     "Fun/Useful links.md",
     "IT/Articles/English Articles.md",
     "IT/Articles/Russian Articles.md",
@@ -213,7 +214,6 @@
     "IT/Servers",
     "Front Pages/Excel.md",
     "Data Analyst or IT/Excel/How To.md",
-    "About Me/CV.md",
     "_attachments/Pasted image 20230407001825.png",
     "_attachments/header page.jpg",
     "_attachments/crane.png"
