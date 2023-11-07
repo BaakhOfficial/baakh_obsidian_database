@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun/Useful links.md",
+                "file": "Fun/Stupid funny links.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fun/Useful links.md",
+                "file": "Fun/Stupid funny links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fun/Useful links.md",
+                "file": "Fun/Stupid funny links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fun/Useful links.md"
+                "file": "Fun/Stupid funny links.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "b283b7d281b64eea",
   "lastOpenFiles": [
-    "Fun/Stupid funny links.md",
     "Fun/Useful links.md",
+    "Fun/Stupid funny links.md",
     "IT/Articles/English Articles.md",
     "IT/Articles/Russian Articles.md",
     "IT/Tools and Links.md",
