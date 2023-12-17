@@ -37,7 +37,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "IT/Tools and Links.md",
+=======
+                "file": "Data Analyst or IT/Tools and Links.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +122,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "IT/Tools and Links.md",
+=======
+                "file": "Data Analyst or IT/Tools and Links.md",
+>>>>>>> Stashed changes
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "IT/Tools and Links.md",
+=======
+                "file": "Data Analyst or IT/Tools and Links.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "IT/Tools and Links.md"
+=======
+                "file": "Data Analyst or IT/Tools and Links.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -224,6 +240,17 @@
     "Front Pages",
     "About Me/Contents",
     "_attachments/crane.png",
+<<<<<<< Updated upstream
+=======
+    "About Me/Bio.md",
+    "Data Analyst or IT/Tools and Links.md",
+    "Front Pages/Fun.md",
+    "Health/Physical Health.md",
+    "Health/Food.md",
+    "Health/Training.md",
+    "Health/Face Skin.md",
+    "Data Analyst or IT/Russian Articles.md",
+>>>>>>> Stashed changes
     "Data Analyst or IT/Linux",
     "Content Creation",
     "_attachments/Pasted image 20230407001825.png",

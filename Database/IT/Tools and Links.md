@@ -2,7 +2,20 @@
 
 [[API's]]
 
+<<<<<<< Updated upstream:Database/IT/Tools and Links.md
 
+=======
+# DBMS
+- https://clickhouse.com/
+- https://couchdb.apache.org/
+- https://cassandra.apache.org/_/index.html
+- https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
+- https://ceph.io/en/
+- https://www.elastic.co/elasticsearch
+- https://www.mysql.com/
+- https://www.postgresql.org/
+- https://www.mongodb.com/
+>>>>>>> Stashed changes:Database/Data Analyst or IT/Tools and Links.md
 # SEO and Website Analysis
 - https://pagespeed.web.dev/
 - https://metrika.yandex.ru/
@@ -14,7 +27,21 @@
 - [Tome - The AI-powered storytelling format](https://beta.tome.app/)
 
 # Visualisation and Dashboards
+<<<<<<< Updated upstream:Database/IT/Tools and Links.md
 
+=======
+- [Qlik | Analytics & Data Integration Platform](https://www.qlik.com/us/)
+- [Business Intelligence and Analytics Software (tableau.com)](https://www.tableau.com/)
+- [Looker Studio (google.com)](https://lookerstudio.google.com/u/0/navigation/reporting)
+- [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
+- https://pixiedust.github.io/pixiedust/ - comprehensive visualization library
+- https://gethue.com/ - SQL assistant
+- https://www.elastic.co/kibana - locked to elasticsearch
+- https://superset.apache.org/ - data exploration and visualisation
+# PostgreSQL 
+- [New explain | explain.depesz.com](https://explain.depesz.com/)
+- [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
+>>>>>>> Stashed changes:Database/Data Analyst or IT/Tools and Links.md
 
 # API
 - [Postman API Platform | Sign Up for Free](https://www.postman.com/)
@@ -36,7 +63,35 @@
 
 # Processing
 - [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
+- https://airflow.apache.org/ - batch-oriented ETL tool
+- https://www.kubeflow.org/ - Machine Learning Toolkit for Kubernetes
+- https://spark.apache.org/sql/ - Apache Spark's module for working with structured data.
+- https://nifi.apache.org/ - dataflow manager
+- https://kafka.apache.org/ - event streaming platform
+- https://nodered.org/ - lightweit ETL tool built on Node.js
 
+# Model deployment
+- https://predictionio.apache.org/
+- https://www.seldon.io/
+- https://github.com/combust/mleap
+- https://art360.res.ibm.com/
+
+# Model Monitoring
+- https://modeldb.science/
+- https://prometheus.io/
+- https://www.ibm.com/opensource/open/projects/ai-fairness-360/
+- https://aix360.res.ibm.com/
+
+# Code Asset Management
+- https://git-scm.com/
+- https://github.com/
+- https://about.gitlab.com/
+- https://bitbucket.org/product
+
+# Data Asset management
+- https://atlas.apache.org/#/
+- https://egeria-project.org/
+- https://kylo.io/
 # Other
 - https://benchmark.clickhouse.com/ - DBMS benchmarks
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
