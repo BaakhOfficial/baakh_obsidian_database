@@ -1,10 +1,6 @@
 >Useful and interesting tools for Data Alanyst
 
 [[API's]]
-
-<<<<<<< Updated upstream:Database/IT/Tools and Links.md
-
-=======
 # DBMS
 - https://clickhouse.com/
 - https://couchdb.apache.org/
@@ -15,7 +11,6 @@
 - https://www.mysql.com/
 - https://www.postgresql.org/
 - https://www.mongodb.com/
->>>>>>> Stashed changes:Database/Data Analyst or IT/Tools and Links.md
 # SEO and Website Analysis
 - https://pagespeed.web.dev/
 - https://metrika.yandex.ru/
@@ -27,9 +22,7 @@
 - [Tome - The AI-powered storytelling format](https://beta.tome.app/)
 
 # Visualisation and Dashboards
-<<<<<<< Updated upstream:Database/IT/Tools and Links.md
 
-=======
 - [Qlik | Analytics & Data Integration Platform](https://www.qlik.com/us/)
 - [Business Intelligence and Analytics Software (tableau.com)](https://www.tableau.com/)
 - [Looker Studio (google.com)](https://lookerstudio.google.com/u/0/navigation/reporting)
@@ -41,7 +34,6 @@
 # PostgreSQL 
 - [New explain | explain.depesz.com](https://explain.depesz.com/)
 - [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
->>>>>>> Stashed changes:Database/Data Analyst or IT/Tools and Links.md
 
 # API
 - [Postman API Platform | Sign Up for Free](https://www.postman.com/)
