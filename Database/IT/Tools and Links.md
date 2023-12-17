@@ -1,6 +1,10 @@
->Useful and interesting tools for Data Alanyst
+>Useful and interesting tools for Data Analytics or DS
 
 [[API's]]
+# Full cycle tools
+- https://h2o.ai/
+- https://www.ibm.com/products/watson-studio
+- https://azure.microsoft.com/en-us/products/machine-learning
 # DBMS
 - https://clickhouse.com/
 - https://couchdb.apache.org/
@@ -11,16 +15,32 @@
 - https://www.mysql.com/
 - https://www.postgresql.org/
 - https://www.mongodb.com/
+- https://www.oracle.com/database/
+- https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+- https://www.ibm.com/products/db2
+- https://aws.amazon.com/ru/dynamodb/
+- https://www.ibm.com/products/cloudant
 # SEO and Website Analysis
 - https://pagespeed.web.dev/
 - https://metrika.yandex.ru/
 - https://www.google.ru/alerts%E2%80%94
-
-
 # Presentation
 - [Canvanizer](https://canvanizer.com/)
 - [Tome - The AI-powered storytelling format](https://beta.tome.app/)
 
+# Execution, Code
+- https://jupyter.org/
+- https://zeppelin.apache.org/
+- https://posit.co/download/rstudio-desktop/
+- https://www.spyder-ide.org/
+- https://spark.apache.org/
+- https://flink.apache.org/
+- https://rise.cs.berkeley.edu/projects/ray/
+- https://www.jetbrains.com/pycharm/
+- https://code.visualstudio.com/
+- https://docs.anaconda.com/free/navigator/index.html
+- https://www.ibm.com/products/watson-studio
+- https://www.datameer.com/
 # Visualisation and Dashboards
 
 - [Qlik | Analytics & Data Integration Platform](https://www.qlik.com/us/)
@@ -31,6 +51,8 @@
 - https://gethue.com/ - SQL assistant
 - https://www.elastic.co/kibana - locked to elasticsearch
 - https://superset.apache.org/ - data exploration and visualisation
+- https://www.microsoft.com/en-us/power-platform/products/power-bi
+- https://www.ibm.com/products/cognos-analytics
 # PostgreSQL 
 - [New explain | explain.depesz.com](https://explain.depesz.com/)
 - [Postgres EXPLAIN Visualizer (pev) (tatiyants.com)](http://tatiyants.com/pev/#/plans)
@@ -53,7 +75,7 @@
 - [Coding Games and Programming Challenges to Code Better (codingame.com)](https://www.codingame.com/start)
 - [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
 
-# Processing
+# Processing, ETL
 - [Intelligent document processing with AI | Nanonets](https://nanonets.com/)
 - https://airflow.apache.org/ - batch-oriented ETL tool
 - https://www.kubeflow.org/ - Machine Learning Toolkit for Kubernetes
@@ -61,12 +83,19 @@
 - https://nifi.apache.org/ - dataflow manager
 - https://kafka.apache.org/ - event streaming platform
 - https://nodered.org/ - lightweit ETL tool built on Node.js
+- https://www.informatica.com/
+- https://www.ibm.com/docs/en/iis/11.7?topic=qualitystage-overview-infosphere-datastage
+- https://www.talend.com/
+- https://www.ibm.com/products/data-refinery
 
-# Model deployment
+# Model building and deployment
 - https://predictionio.apache.org/
 - https://www.seldon.io/
 - https://github.com/combust/mleap
 - https://art360.res.ibm.com/
+- https://www.ibm.com/products/spss-collaboration-deployment-services
+- https://www.sas.com/en_us/software/enterprise-miner.html
+- https://cloud.google.com/ai-platform/docs/technical-overview
 
 # Model Monitoring
 - https://modeldb.science/
