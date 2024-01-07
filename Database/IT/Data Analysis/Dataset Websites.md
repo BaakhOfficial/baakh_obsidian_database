@@ -4,43 +4,59 @@ Name | What is it | What you can find
 [Росстат](https://rosstat.gov.ru/opendata/) | #Russian statistics government statistics source| Well... A lot of things but it is not very reliable
 [Портал открытых данных Правительства Москвы](https://data.mos.ru/) | #Russian statistics of Moscow City | Same as any other Russian government-affilated source of data
 
+**Government Data:**
 
-[World Bank Open Data | Data](https://data.worldbank.org/)
+- [https://www.data.gov/](https://www.data.gov/)
+- [https://www.census.gov/data.html](https://www.census.gov/data.html)
+- [https://data.gov.uk/](https://data.gov.uk/)
+- [https://www.opendatanetwork.com/](https://www.opendatanetwork.com/)
+- [https://data.un.org/](https://data.un.org/)
 
+**Financial Data Sources:**
 
-[data.gov.ru](https://data.gov.ru/)
+- [https://data.worldbank.org/](https://data.worldbank.org/)
+- [https://www.globalfinancialdata.com/](https://www.globalfinancialdata.com/)
+- [https://comtrade.un.org/](https://comtrade.un.org/)
+- [https://www.nber.org/](https://www.nber.org/)
+- [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
 
+**Crime Data:**
 
+- [https://www.fbi.gov/services/cjis/ucr](https://www.fbi.gov/services/cjis/ucr)
+- [https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html](https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html)
+- [https://www.drugabuse.gov/related-topics/trends-statistics](https://www.drugabuse.gov/related-topics/trends-statistics)
+- [https://www.unodc.org/unodc/en/data-and-analysis/](https://www.unodc.org/unodc/en/data-and-analysis/)
 
+**Health Data:**
 
+- [https://www.who.int/gho/database/en/](https://www.who.int/gho/database/en/)
+- [https://www.fda.gov/Food/default.htm](https://www.fda.gov/Food/default.htm)
+- [https://seer.cancer.gov/faststats/selections.php?series=cancer](https://seer.cancer.gov/faststats/selections.php?series=cancer)
+- [https://www.opensciencedatacloud.org/](https://www.opensciencedatacloud.org/)
+- [https://pds.nasa.gov/](https://pds.nasa.gov/)
+- [https://earthdata.nasa.gov/](https://earthdata.nasa.gov/)
+- [https://www.sgim.org/communities/research/dataset-compendium/public-datasets-topic-grid](https://www.sgim.org/communities/research/dataset-compendium/public-datasets-topic-grid)
 
-https://www.kaggle.com/datasets
+**Academic and Business Data:**
 
-[These Are The Best Free Open Data Sources Anyone Can Use (freecodecamp.org)](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
+- [https://scholar.google.com/](https://scholar.google.com/)
+- [https://nces.ed.gov/](https://nces.ed.gov/)
+- [https://www.glassdoor.com/research/](https://www.glassdoor.com/research/)
+- [https://www.yelp.com/dataset](https://www.yelp.com/dataset)
 
-[MySQL :: Sakila Sample Database :: 4 Installation](https://dev.mysql.com/doc/sakila/en/sakila-installation.html)
+**Other General Data:**
 
-[Большие данные: 50 увлекательных и бесплатных источников данных для визуализации данных — Сервисы на vc.ru](https://vc.ru/services/143436-bolshie-dannye-50-uvlekatelnyh-i-besplatnyh-istochnikov-dannyh-dlya-vizualizacii-dannyh)
+- [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+- [https://www.reddit.com/r/datasets/](https://www.reddit.com/r/datasets/)
 
-[CDC WONDER](https://wonder.cdc.gov/)
+**Health Care:**
 
-[Home (dama.org)](https://www.dama.org/cpages/home)
+[https://www.sgim.org/communities/research/dataset-compendium/proprietary-datasets](https://www.sgim.org/communities/research/dataset-compendium/proprietary-datasets)
 
-[Data collections - WHO](https://www.who.int/data/collections)
+**Financial Market data:**
 
-[Registry of Open Data on AWS](https://registry.opendata.aws/)
+[https://datarade.ai/data-categories/proprietary-market-data](https://datarade.ai/data-categories/proprietary-market-data)
 
-[figshare - credit for all your research](https://figshare.com/)
+**Google Cloud based datasets:**
 
-[UCLA Statistics | Website](http://statistics.ucla.edu/)
-
-[awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets. (github.com)](https://github.com/awesomedata/awesome-public-datasets)
-
-[Datasets | Pew Research Center](https://www.pewresearch.org/internet/datasets/)
-
-[Google Public Data Explorer](https://www.google.com/publicdata/directory)
-
-[Google Finance - Stock Market Prices, Real-time Quotes & Business News](https://www.google.com/finance/)
-
-[World Development Indicators - Google Public Data Explorer](https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_#!ctype=l&strail=false&bcs=d&nselm=h&met_y=survival_to_age_65&scale_y=lin&ind_y=false&rdim=world&idim=world:Earth&ifdim=world&hl=en_US&dl=en_US&ind=false)
-
+[https://cloud.google.com/datasets](https://cloud.google.com/datasets)
