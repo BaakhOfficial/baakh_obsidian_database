@@ -60,3 +60,5 @@ Name | What is it | What you can find
 **Google Cloud based datasets:**
 
 [https://cloud.google.com/datasets](https://cloud.google.com/datasets)
+
+https://developer.ibm.com/exchanges/data/

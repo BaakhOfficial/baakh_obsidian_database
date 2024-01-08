@@ -1,1 +1,1 @@
-https://developer.ibm.com/exchanges/data/
+https://ml-exchange.org/models/
