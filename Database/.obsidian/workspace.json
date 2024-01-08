@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Data Analysis/Dataset Websites.md",
+                "file": "IT/Data Science/Dataset Websites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e54cdceb6246225f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Data Science/ML algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Data Analysis/Dataset Websites.md",
+                "file": "IT/Data Science/ML algorithms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Data Analysis/Dataset Websites.md",
+                "file": "IT/Data Science/ML algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Data Analysis/Dataset Websites.md"
+                "file": "IT/Data Science/ML algorithms.md"
               }
             }
           },
@@ -168,7 +180,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -190,18 +204,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "663e2dbe04350a75",
+  "active": "e54cdceb6246225f",
   "lastOpenFiles": [
+    "IT/Data Science/ML algorithms.md",
     "IT/Tools and Links.md",
     "IT/Server, Web, Cloud Tools.md",
     "Data Analyst or IT/Tools and Links.md",
     "IT/Articles/Russian Articles.md",
     "IT/Articles/English Articles.md",
-    "IT/Data Analysis/Dataset Websites.md",
-    "IT/Data Analysis/Data Analyst Tools.md",
+    "IT/Data Science/Dataset Websites.md",
+    "IT/Data Science/Data Analyst Tools.md",
     "IT/Linux Software.md",
     "IT/Articles",
-    "IT/Data Analysis",
+    "IT/Data Science",
     "IT/Book Recommendations.md",
     "IT/API's.md",
     "IT",
@@ -220,7 +235,6 @@
     "Fun/Games.md",
     "Fun/Cinema.md",
     "Fun/AI Tools.md",
-    "Bio.md",
     "Front Pages",
     "About Me/Contents",
     "_attachments/crane.png",
