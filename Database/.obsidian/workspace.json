@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63d81817c927efd4",
+        "id": "bde9af7df58efcc4",
         "type": "tabs",
         "children": [
           {
-            "id": "461775d120e0478b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front Pages/About Me.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b943e1b67f9289",
+            "id": "9b6efdf3face6c86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Main Page.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "663e2dbe04350a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Data Science/Dataset Websites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e54cdceb6246225f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Data Science/ML algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Data Science/ML algorithms.md",
+                "file": "Main Page.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Data Science/ML algorithms.md",
+                "file": "Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Data Science/ML algorithms.md"
+                "file": "Main Page.md"
               }
             }
           },
@@ -204,17 +167,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e54cdceb6246225f",
+  "active": "9b6efdf3face6c86",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Front Pages/About Me.md",
+    "Main Page.md",
     "IT/Data Science/Dataset Websites.md",
-    "IT/Data Science/ML algorithms.md",
+    "Content Creation/Tools.md",
+    "www.pexels.com.md",
+    "Fun/Useful links.md",
     "IT/Tools and Links.md",
     "IT/Server, Web, Cloud Tools.md",
+    "IT/Linux Software.md",
+    "IT/Data Science/ML algorithms.md",
     "Data Analyst or IT/Tools and Links.md",
     "IT/Articles/Russian Articles.md",
     "IT/Articles/English Articles.md",
     "IT/Data Science/Data Analyst Tools.md",
-    "IT/Linux Software.md",
     "IT/Articles",
     "IT/Data Science",
     "IT/Book Recommendations.md",
@@ -225,16 +195,10 @@
     "Front Pages/Content creation.md",
     "Front Pages/Articles.md",
     "About Me/CV.md",
-    "Front Pages/About Me.md",
     "Data Analyst or IT/Excel/How To.md",
     "About Me/Contact Info.md",
-    "Main Page.md",
-    "Fun/Useful links.md",
     "Fun/Stupid funny links.md",
     "Fun/Stuff I Want.md",
-    "Fun/Games.md",
-    "Fun/Cinema.md",
-    "Fun/AI Tools.md",
     "Front Pages",
     "About Me/Contents",
     "_attachments/crane.png",
@@ -245,12 +209,10 @@
     "_attachments/Photo.png",
     "_attachments/Picture.png",
     "_attachments/Aspose.Words.d01f09d8-0edc-4076-97f0-49a2f9f159b6.001.png",
-    "Untitled.canvas",
     "Data Analyst or IT/Excel",
     "Travel/_attachments/Pasted image 20230225121712.png",
     "Travel/_attachments",
     "_attachments",
-    "header page.jpg",
-    "Untitled 1.canvas"
+    "header page.jpg"
   ]
 }

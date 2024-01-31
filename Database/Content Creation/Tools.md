@@ -12,9 +12,10 @@ Tool name | Usecase | Type of use
 # Content Databases
 
 ### 🆓 Free:
-Tool name | Description
--- | --
-[CreatorSet](https://creatorset.com/) | Green Screen Database
-[Vlipsy](https://vlipsy.com/) | Small meme videos for your videos
-[Flaticon](https://www.flaticon.com/) | Icons in PNG formats
-[Unsplash](https://unsplash.com/) | Stock Photos
+| Tool name | Description |
+| ---- | ---- |
+| [CreatorSet](https://creatorset.com/) | Green Screen Database |
+| [Vlipsy](https://vlipsy.com/) | Small meme videos for your videos |
+| [Flaticon](https://www.flaticon.com/) | Icons in PNG formats |
+| [Unsplash](https://unsplash.com/) | Stock Photos |
+| [Pexels](https://www.pexels.com) | Stock Photos |

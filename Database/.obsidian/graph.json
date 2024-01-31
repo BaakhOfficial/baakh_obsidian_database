@@ -1,28 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.556070963541667,
-  "repelStrength": 20,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-<<<<<<< Updated upstream
-  "linkDistance": 30,
-  "scale": 0.702891640916398,
+  "linkDistance": 250,
+  "scale": 0.3628873693012117,
   "close": false
-=======
-  "linkDistance": 173,
-  "scale": 0.36917739817107564,
-  "close": true
->>>>>>> Stashed changes
 }
